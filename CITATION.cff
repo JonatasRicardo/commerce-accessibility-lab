@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Se utilizar este instrumento, cite a versão e o commit executados e preserve a data e o conjunto da coleta."
+type: software
+title: "Commerce Accessibility Lab"
+version: 0.1.0
+date-released: 2026-11-08
+authors:
+  - family-names: "Santos"
+    given-names: "Jônatas Ricardo S."
+repository-code: "https://github.com/JonatasRicardo/commerce-accessibility-lab"
+url: "https://github.com/JonatasRicardo/commerce-accessibility-lab"
+license: MIT
+abstract: "Instrumento exploratório para auditoria de acessibilidade automatizada, SEO técnico e legibilidade para agentes em páginas comerciais, com comparação e reprodução de registros preservados."

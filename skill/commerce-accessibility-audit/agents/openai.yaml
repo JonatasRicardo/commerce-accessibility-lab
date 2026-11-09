@@ -1,0 +1,4 @@
+interface:
+  display_name: "Auditoria de e-commerce"
+  short_description: "SEO, acessibilidade e comparação de páginas"
+  default_prompt: "Use $commerce-accessibility-audit para avaliar uma página e compará-la com um concorrente, mostrando melhorias e evidências."

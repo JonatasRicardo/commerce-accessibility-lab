@@ -1,0 +1,42 @@
+{
+  "collectedLocalDate": "2026-11-08",
+  "timezone": "America/Sao_Paulo",
+  "pages": [
+    {
+      "id": "unhidden-home",
+      "rules": 1,
+      "occurrences": 1,
+      "incomplete": 1
+    },
+    {
+      "id": "unhidden-product",
+      "rules": 2,
+      "occurrences": 3,
+      "incomplete": 1
+    },
+    {
+      "id": "pelagic-home",
+      "rules": 0,
+      "occurrences": 0,
+      "incomplete": 1
+    },
+    {
+      "id": "pelagic-product",
+      "rules": 1,
+      "occurrences": 4,
+      "incomplete": 2
+    },
+    {
+      "id": "wolverine-home",
+      "rules": 6,
+      "occurrences": 75,
+      "incomplete": 4
+    },
+    {
+      "id": "wolverine-product",
+      "rules": 4,
+      "occurrences": 39,
+      "incomplete": 6
+    }
+  ]
+}

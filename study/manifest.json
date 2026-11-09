@@ -1,0 +1,21 @@
+{
+  "description": "Preserved public-site evidence from the initial study; not a new live audit.",
+  "files": [
+    {
+      "file": "baseline/historical-static-comparison.json",
+      "sha256": "9ccfa7dc76ee3f01e5e828be240efca531d40c57216f7218665fec5f4530343a"
+    },
+    {
+      "file": "baseline/audit-results.json",
+      "sha256": "9a47ac977e3069adc8e332d4ed87bcf944b9ec2da3b8a905a356f7b239cef388"
+    },
+    {
+      "file": "baseline/local-remediation-results.json",
+      "sha256": "a0c7bdf05237bb9f167a6ef577a9d09a68ad19f4d1835d89ea5929005164e0e2"
+    },
+    {
+      "file": "expected-results.json",
+      "sha256": "749fa0dbe45739192be9fafe13b6cf41bfff20008ae9d7886a4ddd499867590a"
+    }
+  ]
+}

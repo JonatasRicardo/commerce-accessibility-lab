@@ -1,0 +1,93 @@
+[
+  {
+    "site": "pelagic-home-2023",
+    "date": "20221211122249",
+    "url": "https://web.archive.org/web/20221211122249id_/https://pelagicgear.com/",
+    "counts": {
+      "images": 18,
+      "imagesWithoutAlt": 1,
+      "buttons": 19,
+      "buttonsWithExplicitAriaName": 17,
+      "ariaHaspopTypo": 0,
+      "jsonLdBlocks": 0
+    }
+  },
+  {
+    "site": "pelagic-home-2025",
+    "date": "20241225010439",
+    "url": "https://web.archive.org/web/20241225010439id_/https://pelagicgear.com/",
+    "counts": {
+      "images": 57,
+      "imagesWithoutAlt": 0,
+      "buttons": 31,
+      "buttonsWithExplicitAriaName": 19,
+      "ariaHaspopTypo": 0,
+      "jsonLdBlocks": 0
+    }
+  },
+  {
+    "site": "wolverine-home-2023",
+    "date": "20230113212059",
+    "url": "https://web.archive.org/web/20230113212059id_/https://www.wolverine.com/US/en/home",
+    "counts": {
+      "images": 63,
+      "imagesWithoutAlt": 4,
+      "buttons": 11,
+      "buttonsWithExplicitAriaName": 6,
+      "ariaHaspopTypo": 0,
+      "jsonLdBlocks": 0
+    }
+  },
+  {
+    "site": "unhidden-old-domain-2024",
+    "date": "20240110163625",
+    "url": "https://web.archive.org/web/20240110163625id_/https://unhiddenclothing.com/",
+    "counts": {
+      "images": 69,
+      "imagesWithoutAlt": 0,
+      "buttons": 29,
+      "buttonsWithExplicitAriaName": 10,
+      "ariaHaspopTypo": 1,
+      "jsonLdBlocks": 1
+    }
+  },
+  {
+    "site": "unhidden-home-current",
+    "date": "2026-11-08 America/Sao_Paulo",
+    "url": "https://unhidden.com/",
+    "counts": {
+      "images": 28,
+      "imagesWithoutAlt": 0,
+      "buttons": 18,
+      "buttonsWithExplicitAriaName": 10,
+      "ariaHaspopTypo": 1,
+      "jsonLdBlocks": 1
+    }
+  },
+  {
+    "site": "pelagic-home-current",
+    "date": "2026-11-08 America/Sao_Paulo",
+    "url": "https://pelagicgear.com/en-br",
+    "counts": {
+      "images": 60,
+      "imagesWithoutAlt": 0,
+      "buttons": 31,
+      "buttonsWithExplicitAriaName": 19,
+      "ariaHaspopTypo": 0,
+      "jsonLdBlocks": 0
+    }
+  },
+  {
+    "site": "wolverine-home-current",
+    "date": "2026-11-08 America/Sao_Paulo",
+    "url": "https://www.wolverine.com/US/en/home",
+    "counts": {
+      "images": 98,
+      "imagesWithoutAlt": 2,
+      "buttons": 44,
+      "buttonsWithExplicitAriaName": 15,
+      "ariaHaspopTypo": 0,
+      "jsonLdBlocks": 3
+    }
+  }
+]

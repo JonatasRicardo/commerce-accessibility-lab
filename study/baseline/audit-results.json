@@ -1,0 +1,3216 @@
+[
+  {
+    "site": "unhidden",
+    "kind": "home",
+    "urlRequested": "https://unhidden.com/",
+    "url": "https://unhidden.com/",
+    "collectedAt": "2026-11-09T01:56:33.369Z",
+    "httpStatus": 200,
+    "sourceSha256": "d83e741856f3b3e363d86136fe5cd222c922f5116de2701df1640fa3c740d64b",
+    "browserVersion": "151.0.7922.34",
+    "axeVersion": "4.10.3",
+    "viewport": "1440x1000",
+    "dom": {
+      "title": "Adaptive Clothing & Disability Brand - Unhidden",
+      "lang": "en",
+      "h1": [
+        "Adaptive Clothing & Disability Brand - Unhidden",
+        "Product Title"
+      ],
+      "metas": [
+        {
+          "name": "description",
+          "content": "Our Main Goal is to focus on positive representation of the the people who are facing the disability problem and show them that how to adapt clothing you already own yourself so there is no barrier to accessing adaptive clothing and re-loving your existing wardrobes."
+        }
+      ],
+      "canonical": "https://unhidden.com/",
+      "images": {
+        "total": 22,
+        "withoutAlt": 0,
+        "emptyAlt": 6
+      },
+      "jsonld": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Unhidden",
+          "url": "/",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "customer support",
+            "email": "zelda@unhiddenclothing.com",
+            "url": "/"
+          },
+          "sameAs": [
+            "https://unhidden.com",
+            "https://www.facebook.com/UnhiddenClothing"
+          ]
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Brazil (GBP\n                            £)",
+          "ariaLabel": "Brazil (GBP\n                            £)",
+          "html": "<button type=\"button\" class=\"disclosure__button localization-form__select localization-selector\" aria-controls=\"FooterCountryList\" aria-describedby=\"FooterCountryLabel\" data-ignore-accessibility-fix=\"true\" aria-label=\"Brazil (GBP\n                            £)\">\n                            Brazil (GBP\n                            £)\n                          </button>"
+        },
+        {
+          "text": "SUBMIT",
+          "ariaLabel": "SUBMIT",
+          "html": "<button type=\"submit\" class=\"footer-block__newsletter--button button btn-as-link\" name=\"commit\" aria-label=\"SUBMIT\">\n                  SUBMIT\n                </button>"
+        },
+        {
+          "text": "Hidden Button",
+          "ariaLabel": "Close",
+          "html": "<button class=\"slideout__trigger-quickview js-slideout-close\" aria-controls=\"slideout-quickview\" data-slideout-direction=\"right\" aria-label=\"Close\" tabindex=\"0\" type=\"button\" name=\"button\" data-ignore-accessibility-fix=\"true\">\n          <div class=\"icn-close\"></div>\n        <span class=\"visually-hidden\" style=\"position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); white-space: nowrap; border: 0px;\">Hidden Button</span></button>"
+        },
+        {
+          "text": "Accessibility Tools",
+          "ariaLabel": "Accessibility Tools",
+          "html": "<button id=\"enablealltool-access-tool-general-button-js\" aria-label=\"Accessibility Tools\" class=\"enableall-widget-wrapper-js enablealltool-item enablealltool-access-tool-general-button enablealltool-access-tool-general-button-js bg-theme-fab p-2 shadow rounded-full focus-outline\" style=\"display: flex; background: linear-gradient(135deg, rgb(2, 2, 2) 0%, rgb(2, 2, 2) 20%, rgb(2, 2, 2) 40%, rgb(2, 2, 2) 60%, rgb(2, 2, 2) 80%, rgb(2, 2, 2) 100%); width: 44px; height: 44px; right: 0px; bottom: 245px; top: auto; border-radius: 100px 0px 0px 100px;\" data-enableall-layer=\"banner\"> <span class=\"enablealltool-item visually-hidden\"> Accessibility Tools"
+        },
+        {
+          "text": "Hidden Button",
+          "ariaLabel": "close",
+          "html": "<button id=\"enablealltool-access-tool-box-close-button\" aria-label=\"close\" class=\"enablealltool-item enableall-btn enableall-widget-header-close-btn\"><span class=\"visually-hidden\" style=\"position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); white-space: nowrap; border: 0px;\">Hidden Button</span></button>"
+        },
+        {
+          "text": "Reset settings  Shift + R Hidden Button",
+          "ariaLabel": "Reset settings   Shift + R Hidden Button",
+          "html": "<button id=\"enablealltool-reset-theme-button\" class=\"enablealltool-item enableall-btn enableall-widget-action-btn\" aria-label=\"Reset settings   Shift + R Hidden Button\"> <div class=\"enablealltool-item enableall-btn enableall-widget-action-btn-icon\"></div> <span data-i18n=\"mainWidget.resetSettings\">Reset settings</span> <span style=\"text-decoration:none!important;margin-bottom:-3px\" class=\"enablealltool-item ml-2 enableall-reset-shortcut enabelaaltool-mobile-visable-hidden\"> Shift + R</span> <span class=\"visually-hidden\" style=\"position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, "
+        },
+        {
+          "text": "Hidden Button",
+          "ariaLabel": "Hide toolbar",
+          "html": "<button type=\"button\" id=\"enableall-hide-toolbar-btn\" class=\"enablealltool-item enableall-btn enableall-widget-header-hide-btn\" aria-label=\"Hide toolbar\"><span class=\"visually-hidden\" style=\"position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); white-space: nowrap; border: 0px;\">Hidden Button</span></button>"
+        },
+        {
+          "text": "S",
+          "ariaLabel": "Small",
+          "html": "<button type=\"button\" class=\"enablealltool-item enableall-btn enableall-widget-size-toggle__btn enableall-widget-size-toggle__btn--active\" aria-label=\"Small\" data-size=\"s\" aria-pressed=\"true\"> S </button>"
+        },
+        {
+          "text": "L",
+          "ariaLabel": "Large",
+          "html": "<button type=\"button\" class=\"enablealltool-item enableall-btn enableall-widget-size-toggle__btn\" data-size=\"l\" aria-label=\"Large\" aria-pressed=\"false\"> L </button>"
+        },
+        {
+          "text": "Select language  EN English   Hidden Button",
+          "ariaLabel": "Select language  EN English   Hidden Button",
+          "html": "<button class=\"enableall-dropdown-button\" type=\"button\" aria-haspopup=\"true\" aria-controls=\"essential-access-content\" data-ignore-accessibility-fix=\"true\" aria-label=\"Select language  EN English   Hidden Button\"> <span class=\"enableall-dropdown-selected\"> <span class=\"enableall-dropdown-heading\" data-i18n=\"mainWidget.collapsibleButtons.selectLang\">Select language</span> <span class=\"enableall-dropdown-selected-lang\"> <span class=\"enableall-dropdown-circle\" id=\"selectedValue\">EN</span> <span id=\"selectedTitle\">English</span></span> </span> <span class=\"enablealltool-item enableall-widget-collapsible-btn-arrow enableall-dropdown-arrow enableall"
+        },
+        {
+          "text": "Essential access  Hidden Button",
+          "ariaLabel": "Essential access  Hidden Button",
+          "html": "<button class=\"enablealltool-item enableall-widget-collapsible-btn\" id=\"essential-access-btn\" aria-haspopup=\"true\" aria-expanded=\"true\" aria-controls=\"essential-access-content\" data-ignore-accessibility-fix=\"true\" aria-label=\"Essential access  Hidden Button\"> <div class=\"enablealltool-item enableall-h3\" data-i18n=\"mainWidget.collapsibleButtons.essentialAccess\">Essential access</div> <span class=\"enablealltool-item enableall-widget-collapsible-btn-arrow\" id=\"essential-access-icon\" style=\"transform: rotate(0deg);\"></span> <span class=\"visually-hidden\" style=\"position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidd"
+        },
+        {
+          "text": "Simplify text    Click text then icon to see Grade 9 simplified version for easier understanding.  H",
+          "ariaLabel": "Simplify text",
+          "html": "<button id=\"enablealltool-enable-rewriting-button\" class=\"enablealltool-item enableall-widget-essential-btn\" aria-label=\"Simplify text\"> <span class=\"enablealltool-item enableall-widget-essential-btn-content\"> <span class=\"enablealltool-item enableall-widget-tool-heading-icon enableall-widget-tool-heading-icon__simplify-text\"></span> <span data-i18n=\"essentialAccess.buttons.simplifyText\">Simplify text</span> </span> <span class=\"enablealltool-item enableall-widget-essential-btn-content-info-icon\" tabindex=\"0\" aria-label=\"Click text then icon to see Grade 9 simplified version for easier understanding.\"></span> <span class=\"enablealltool-item e"
+        },
+        {
+          "text": "Read out text    Click on block of text to hear it read aloud - move back, forward or enable continu",
+          "ariaLabel": "Read out text",
+          "html": "<button aria-label=\"Read out text\" id=\"enablealltool-screen-reader-button\" value=\"readMore\" class=\"enablealltool-item enableall-widget-essential-btn\"> <span class=\"enablealltool-item enableall-widget-essential-btn-content\"> <span class=\"enablealltool-item enableall-widget-tool-heading-icon enableall-widget-tool-heading-icon__read-text\"></span> <span data-i18n=\"essentialAccess.buttons.readOutText\">Read out text</span> </span> <span class=\"enablealltool-item enableall-widget-essential-btn-content-info-icon\" tabindex=\"0\" aria-label=\"Click on block of text to hear it read aloud - move back, forward or enable continuous reading.\"></span> <span cla"
+        },
+        {
+          "text": "Sign language    Click text to view it in sign language.  Hidden Button",
+          "ariaLabel": "Sign Language",
+          "html": "<button aria-label=\"Sign Language\" id=\"enablealltool-enable-sign-language-button\" class=\"enablealltool-item enableall-widget-essential-btn\"> <span class=\"enablealltool-item enableall-widget-essential-btn-content\"> <span class=\"enablealltool-item enableall-widget-tool-heading-icon enableall-widget-tool-heading-icon__sign-language\"></span> <span data-i18n=\"essentialAccess.buttons.signLanguage\">Sign language</span> </span> <span class=\"enablealltool-item enableall-widget-essential-btn-content-info-icon\" tabindex=\"0\" aria-label=\"Click text to view it in sign language.\"></span> <span class=\"enablealltool-item enableall-widget-essential-btn-content"
+        },
+        {
+          "text": "Stop Animations    Stops all moving content on the page to support seizure-safe and more focused bro",
+          "ariaLabel": "Stop animation",
+          "html": "<button aria-label=\"Stop animation\" id=\"enablealltool-stop-animation-button\" value=\"readMore\" class=\"enablealltool-item enableall-widget-essential-btn\"> <span class=\"enablealltool-item enableall-widget-essential-btn-content\"> <span class=\"enablealltool-item enableall-widget-tool-heading-icon enableall-widget-tool-heading-icon__stop-animation\"></span> <span data-i18n=\"essentialAccess.buttons.stopAnimations\">Stop Animations</span> </span> <span class=\"enablealltool-item enableall-widget-essential-btn-content-info-icon\" tabindex=\"0\" aria-label=\"Stops all moving content on the page to support seizure-safe and more focused browsing.\"></span> <span"
+        },
+        {
+          "text": "Mute sounds    Mutes all media on the page to support focus and screen reader use.  Hidden Button",
+          "ariaLabel": "Mute Sounds",
+          "html": "<button aria-label=\"Mute Sounds\" id=\"enablealltool-mute-sound-button\" value=\"readMore\" class=\"enablealltool-item enableall-widget-essential-btn\"> <span class=\"enablealltool-item enableall-widget-essential-btn-content\"> <span class=\"enablealltool-item enableall-widget-tool-heading-icon enableall-widget-tool-heading-icon__mute-sounds\"></span> <span data-i18n=\"essentialAccess.buttons.muteSounds\">Mute sounds</span> </span> <span class=\"enablealltool-item enableall-widget-essential-btn-content-info-icon\" tabindex=\"0\" aria-label=\"Mutes all media on the page to support focus and screen reader use\"></span> <span class=\"enablealltool-item enableall-wi"
+        },
+        {
+          "text": "Video captions    Adds text captions of audio content to video and audio.  Hidden Button",
+          "ariaLabel": "Video Captions",
+          "html": "<button aria-label=\"Video Captions\" id=\"enablealltool-enable-video-button\" class=\"enablealltool-item enableall-widget-essential-btn\"> <span class=\"enablealltool-item enableall-widget-essential-btn-content\"> <span class=\"enablealltool-item enableall-widget-tool-heading-icon enableall-widget-tool-heading-icon__video-captions\"></span> <span data-i18n=\"essentialAccess.buttons.videoCaptions\">Video captions</span> </span> <span class=\"enablealltool-item enableall-widget-essential-btn-content-info-icon\" tabindex=\"0\" aria-label=\" Adds text captions of audio content to video and audio.\"></span> <span class=\"enablealltool-item enableall-widget-essentia"
+        },
+        {
+          "text": "Declutter content    Remove non-essential content to reduce distraction and improve focus.  Hidden B",
+          "ariaLabel": "Declutter Content",
+          "html": "<button aria-label=\"Declutter Content\" id=\"enablealltool-enable-Declutter-button\" class=\"enablealltool-item enableall-widget-essential-btn\"> <span class=\"enablealltool-item enableall-widget-essential-btn-content\"> <span class=\"enablealltool-item enableall-widget-tool-heading-icon enableall-widget-tool-heading-icon__declutter-content\"></span> <span data-i18n=\"essentialAccess.buttons.declutterContent\">Declutter content</span> </span> <span class=\"enablealltool-item enableall-widget-essential-btn-content-info-icon\" tabindex=\"0\" aria-label=\"Remove non-essential content to reduce distraction and improve focus.\"></span> <span class=\"enablealltool-i"
+        },
+        {
+          "text": "Disable styling    Displays page content in a single column for better readability and flow.  Hidden",
+          "ariaLabel": "Disable styling",
+          "html": "<button aria-label=\"Disable styling\" id=\"enablealltool-read-mode-button\" value=\"readMore\" class=\"enablealltool-item enableall-widget-essential-btn\"> <span class=\"enablealltool-item enableall-widget-essential-btn-content\"> <span class=\"enablealltool-item enableall-widget-tool-heading-icon enableall-widget-tool-heading-icon__disable-styling\"></span> <span data-i18n=\"essentialAccess.buttons.disableStyling\">Disable styling</span> </span> <span class=\"enablealltool-item enableall-widget-essential-btn-content-info-icon\" tabindex=\"0\" aria-label=\"Displays page content in a single column for better readability and flow.\"></span> <span class=\"enableall"
+        },
+        {
+          "text": "Screen mask    Cover your screen in a single color tone to support visual comfort  Hidden Button",
+          "ariaLabel": "Screen Mask",
+          "html": "<button aria-label=\"Screen Mask\" id=\"enablealltool-screen-mask-v2-button\" class=\"enablealltool-item enableall-widget-essential-btn\"> <span class=\"enablealltool-item enableall-widget-essential-btn-content\"> <span class=\"enablealltool-item enableall-widget-tool-heading-icon enableall-widget-tool-heading-icon__screen-mask\"></span> <span data-i18n=\"essentialAccess.buttons.screenMask\">Screen mask</span> </span> <span class=\"enablealltool-item enableall-widget-essential-btn-content-info-icon\" tabindex=\"0\" aria-label=\"Cover your screen in a single colour tone to support visual comfort.\"></span> <span class=\"enablealltool-item enableall-widget-essent"
+        },
+        {
+          "text": "Image reader    See text, including text on an image, in a readable pop-up.  Hidden Button",
+          "ariaLabel": "Image Reader",
+          "html": "<button aria-label=\"Image Reader\" id=\"enablealltool-enable-image-reader-button\" class=\"enablealltool-item enableall-widget-essential-btn enabelaaltool-mobile-visable-hidden\"> <span class=\"enablealltool-item enableall-widget-essential-btn-content\"> <span class=\"enablealltool-item enableall-widget-tool-heading-icon enableall-widget-tool-heading-icon__i-reader\"></span> <span data-i18n=\"essentialAccess.buttons.imageReader\">Image reader</span> </span> <span class=\"enablealltool-item enableall-widget-essential-btn-content-info-icon\" tabindex=\"0\" aria-label=\"See text, including text on an image, in a readable pop-up.\"></span> <span class=\"enableallt"
+        },
+        {
+          "text": "Highlight hover    Puts a highlight box where your mouse is.  Hidden Button",
+          "ariaLabel": "Highlight Hover",
+          "html": "<button aria-label=\"Highlight Hover\" id=\"enablealltool-enable-text-hover\" class=\"enablealltool-item enableall-widget-essential-btn enabelaaltool-mobile-visable-hidden\"> <span class=\"enablealltool-item enableall-widget-essential-btn-content\"> <span class=\"enablealltool-item enableall-widget-tool-heading-icon enableall-widget-tool-heading-icon__highlight-hover\"></span> <span data-i18n=\"essentialAccess.buttons.highlightHover\">Highlight hover</span> </span> <span class=\"enablealltool-item enableall-widget-essential-btn-content-info-icon\" tabindex=\"0\" aria-label=\"Puts a highlight box where your mouse is.\"></span> <span class=\"enablealltool-item en"
+        },
+        {
+          "text": "Reading guide    Highlights the section you're reading while dimming the rest of the page to reduce ",
+          "ariaLabel": "Reading guide",
+          "html": "<button aria-label=\"Reading guide\" id=\"enablealltool-screen-mask-button\" class=\"enablealltool-item enableall-widget-essential-btn enabelaaltool-mobile-visable-hidden\"> <span class=\"enablealltool-item enableall-widget-essential-btn-content\"> <span class=\"enablealltool-item enableall-widget-tool-heading-icon enableall-widget-tool-heading-icon__reading-guide\"></span> <span data-i18n=\"essentialAccess.buttons.readingGuide\">Reading guide</span> </span> <span class=\"enablealltool-item enableall-widget-essential-btn-content-info-icon\" tabindex=\"0\" aria-label=\"Highlights the section you're reading while dimming the rest of the page to reduce distracti"
+        },
+        {
+          "text": "Highlight links    Highlight all links on the page to make them easy to find.  Hidden Button",
+          "ariaLabel": "Highlight Links",
+          "html": "<button aria-label=\"Highlight Links\" id=\"enablealltool-highlight-links-button\" class=\"enablealltool-item enableall-widget-essential-btn\"> <span class=\"enablealltool-item enableall-widget-essential-btn-content\"> <span class=\"enablealltool-item enableall-widget-tool-heading-icon enableall-widget-tool-heading-icon__highlight-links\"></span> <span data-i18n=\"essentialAccess.buttons.highlightLinks\">Highlight links</span> </span> <span class=\"enablealltool-item enableall-widget-essential-btn-content-info-icon\" tabindex=\"0\" aria-label=\"Highlight all links on the page to make them easy to find.\"></span> <span class=\"enablealltool-item enableall-widget"
+        }
+      ],
+      "counts": {
+        "buttons": 71,
+        "links": 327,
+        "landmarks": 1
+      },
+      "contentSample": "skip header\nShop \n \nAbout\n \nLFW\n \nBlogs and News\n \nPress\n \nContact\nGBP\nGBP\nUSD\nEUR\nCAD\nAUD\nINR\nJPY\nAED\n \nLogin\n \nCart (0)\nAs featured in:\nNO WASTE\nskip blog\n\nThe mass destruction of stock and fabrics after each season leads to massive amounts of waste. It is time fashion brands take accountability. Our Lucy and Yak collection is made of 100% dead-stock fabrics with Unhidden's own adaptability.\n\nFIND MORE\nWhat people say about us\n\nMy trousers arrived and they are sooo comfortable! I love them.\nAll my other trousers pale in comparison.\n\nCaleigh\n\nIt turns out that a safe, comfortable, practical and smart pair of trousers for a wheelchair user isn't too much to ask! Wonderful and thoughtful work from Unhidden.\n\nPete Reed, Olympian\n\nIt will change my life, it will make life my life easier, and it helps that the founder has chronic health issues as she comes from our side. We deserve to feel b"
+    },
+    "tabSequence": [
+      {
+        "tag": "A",
+        "id": "",
+        "text": "skip header",
+        "label": null,
+        "href": "#a11y-section-blog"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "",
+        "label": null,
+        "href": "/"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Shop\n\n      \n\n\n  \n    \n      \n        \n      \n      .navigation__menulink .",
+        "label": null,
+        "href": "#"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "About",
+        "label": null,
+        "href": "/pages/about-unhidden"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "LFW",
+        "label": null,
+        "href": "/pages/london-fashion-week"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Blogs and News",
+        "label": null,
+        "href": "/blogs/blog"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Press",
+        "label": null,
+        "href": "/pages/press-new"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Contact",
+        "label": null,
+        "href": "/pages/contact-us"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "text": "GBPGBPUSDEURCADAUDINRJPYAED",
+        "label": null,
+        "href": null
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": ".header__cart-links--search .icon--forge-search:hover .hover-fill { fill: v",
+        "label": "Search",
+        "href": "#"
+      }
+    ],
+    "violations": [
+      {
+        "id": "aria-valid-attr",
+        "impact": "critical",
+        "description": "Ensure attributes that begin with aria- are valid ARIA attributes",
+        "help": "ARIA attributes must conform to valid names",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/aria-valid-attr?application=axeAPI",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag412",
+          "EN-301-549",
+          "EN-9.4.1.2"
+        ],
+        "nodeCount": 1,
+        "nodes": [
+          {
+            "html": "<a class=\"navigation__menulink js-menu-link js-aria-expand js-open-dropdown-on-key is_upcase-false\" role=\"menuitem\" aria-haspop=\"true\" aria-expanded=\"false\" href=\"#\">",
+            "target": [
+              ".js-aria-expand"
+            ],
+            "failureSummary": "Fix any of the following:\n  Invalid ARIA attribute name: aria-haspop"
+          }
+        ]
+      }
+    ],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodeCount": 5
+      }
+    ],
+    "passes": [
+      "aria-allowed-attr",
+      "aria-conditional-attr",
+      "aria-deprecated-role",
+      "aria-hidden-body",
+      "aria-hidden-focus",
+      "aria-prohibited-attr",
+      "aria-required-attr",
+      "aria-required-children",
+      "aria-required-parent",
+      "aria-roles",
+      "aria-valid-attr-value",
+      "aria-valid-attr",
+      "avoid-inline-spacing",
+      "button-name",
+      "bypass",
+      "color-contrast",
+      "document-title",
+      "duplicate-id-aria",
+      "form-field-multiple-labels",
+      "html-has-lang",
+      "html-lang-valid",
+      "image-alt",
+      "label",
+      "link-in-text-block",
+      "link-name",
+      "list",
+      "listitem",
+      "meta-viewport",
+      "nested-interactive",
+      "scrollable-region-focusable",
+      "svg-img-alt",
+      "target-size"
+    ],
+    "axControlsWithoutName": [
+      {
+        "role": "textbox",
+        "name": "",
+        "properties": [
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          },
+          {
+            "name": "focusable",
+            "value": {
+              "type": "booleanOrUndefined",
+              "value": true
+            }
+          },
+          {
+            "name": "editable",
+            "value": {
+              "type": "token",
+              "value": "plaintext"
+            }
+          },
+          {
+            "name": "settable",
+            "value": {
+              "type": "booleanOrUndefined",
+              "value": true
+            }
+          },
+          {
+            "name": "multiline",
+            "value": {
+              "type": "boolean",
+              "value": false
+            }
+          },
+          {
+            "name": "readonly",
+            "value": {
+              "type": "boolean",
+              "value": false
+            }
+          },
+          {
+            "name": "required",
+            "value": {
+              "type": "boolean",
+              "value": false
+            }
+          },
+          {
+            "name": "labelledby",
+            "value": {
+              "type": "nodeList",
+              "relatedNodes": [
+                {
+                  "backendDOMNodeId": 1687,
+                  "text": ""
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "sourceCharacters": 776630,
+    "sourceBytesUtf8": 777080
+  },
+  {
+    "site": "unhidden",
+    "kind": "product",
+    "urlRequested": "https://unhidden.com/products/backless-crop-top",
+    "url": "https://unhidden.com/products/backless-crop-top",
+    "collectedAt": "2026-11-09T01:58:20.339Z",
+    "httpStatus": 200,
+    "sourceSha256": "ec83cf9ea4a0b6a29de3373545ac3cc00953b77e61b299a707efa05ac79f8aeb",
+    "browserVersion": "151.0.7922.34",
+    "axeVersion": "4.10.3",
+    "viewport": "1440x1000",
+    "dom": {
+      "title": "Adaptive Backless Teal Crop Top | Disabled Clothes | Short Stature | Dwarfism – Unhidden",
+      "lang": "en",
+      "h1": [
+        "Backless Crop Top",
+        "Product Title"
+      ],
+      "metas": [
+        {
+          "name": "description",
+          "content": "Adaptive Teal backless cropped jersey top. Fun and functional Disabled Fashion with adaptive features. Perfect for wheelchair users and short stature. - Popper fastening at neck for ease"
+        }
+      ],
+      "canonical": "https://unhidden.com/products/backless-crop-top",
+      "images": {
+        "total": 14,
+        "withoutAlt": 0,
+        "emptyAlt": 7
+      },
+      "jsonld": [
+        {
+          "invalid": true
+        }
+      ],
+      "buttons": [
+        {
+          "text": ".product__quantity .icon--apollo-minus:hover .hover-fill { fill: var(--text-color);}\n    \n  \n\n\n\n\n\n\n ",
+          "ariaLabel": "Decrease",
+          "html": "<button class=\"product__quantity-down downer js-qty-down mr1 mb0 no-js-hidden\" href=\"/products/backless-crop-top\" tabindex=\"0\" aria-label=\"Decrease\" type=\"button\">\n        \n\n\n  \n    <svg class=\"icon--apollo-minus \" height=\"10px\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 20 20\" xml:space=\"preserve\" aria-label=\".product__quantity .icon--apollo-minus:hover .hover-fill { fill: var(--text-colo\">\n      <g class=\"hover-fill\" fill=\"var(--text-color)\">\n        <polygon points=\"0,8.6 0,11.4 20,11.4 20,8.6 \"></polygon>\n      </g>\n      <style>.product__quantity .icon--apollo-"
+        },
+        {
+          "text": ".product__quantity .icon--apollo-plus:hover .hover-fill { fill: var(--text-color);}\n    \n  \n\n\n\n\n\n\n  ",
+          "ariaLabel": "Increase",
+          "html": "<button class=\"product__quantity-up js-qty-up up ml1 mb0 no-js-hidden\" href=\"/products/backless-crop-top\" tabindex=\"0\" aria-label=\"Increase\" type=\"button\">\n        \n\n\n  \n    <svg class=\"icon--apollo-plus \" height=\"10px\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 20 20\" xml:space=\"preserve\" aria-label=\".product__quantity .icon--apollo-plus:hover .hover-fill { fill: var(--text-color\">\n      <g class=\"hover-fill\" fill=\"var(--text-color)\">\n        <polygon id=\"Plus\" points=\"20,11.4 11.4,11.4 11.4,20 8.6,20 8.6,11.4 0,11.4 0,8.6 8.6,8.6 8.6,0 11.4,0 11.4,8.6 20,8.6 \"></p"
+        },
+        {
+          "text": "Brazil (GBP\n                            £)",
+          "ariaLabel": "Brazil (GBP\n                            £)",
+          "html": "<button type=\"button\" class=\"disclosure__button localization-form__select localization-selector\" aria-controls=\"FooterCountryList\" aria-describedby=\"FooterCountryLabel\" data-ignore-accessibility-fix=\"true\" aria-label=\"Brazil (GBP\n                            £)\">\n                            Brazil (GBP\n                            £)\n                          </button>"
+        },
+        {
+          "text": "SUBMIT",
+          "ariaLabel": "SUBMIT",
+          "html": "<button type=\"submit\" class=\"footer-block__newsletter--button button btn-as-link\" name=\"commit\" aria-label=\"SUBMIT\">\n                  SUBMIT\n                </button>"
+        },
+        {
+          "text": "Hidden Button",
+          "ariaLabel": "Close",
+          "html": "<button class=\"slideout__trigger-quickview js-slideout-close\" aria-controls=\"slideout-quickview\" data-slideout-direction=\"right\" aria-label=\"Close\" tabindex=\"0\" type=\"button\" name=\"button\" data-ignore-accessibility-fix=\"true\">\n          <div class=\"icn-close\"></div>\n        <span class=\"visually-hidden\" style=\"position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); white-space: nowrap; border: 0px;\">Hidden Button</span></button>"
+        },
+        {
+          "text": "×",
+          "ariaLabel": "Close",
+          "html": "<button type=\"button\" class=\"ks-modal-close\" aria-label=\"Close\" data-modal-close=\"\">×</button>"
+        },
+        {
+          "text": "Accessibility Tools",
+          "ariaLabel": "Accessibility Tools",
+          "html": "<button id=\"enablealltool-access-tool-general-button-js\" aria-label=\"Accessibility Tools\" class=\"enableall-widget-wrapper-js enablealltool-item enablealltool-access-tool-general-button enablealltool-access-tool-general-button-js bg-theme-fab p-2 shadow rounded-full focus-outline\" style=\"display: flex; background: linear-gradient(135deg, rgb(2, 2, 2) 0%, rgb(2, 2, 2) 20%, rgb(2, 2, 2) 40%, rgb(2, 2, 2) 60%, rgb(2, 2, 2) 80%, rgb(2, 2, 2) 100%); width: 44px; height: 44px; right: 0px; bottom: 245px; top: auto; border-radius: 100px 0px 0px 100px;\" data-enableall-layer=\"banner\"> <span class=\"enablealltool-item visually-hidden\"> Accessibility Tools"
+        },
+        {
+          "text": "Hidden Button",
+          "ariaLabel": "close",
+          "html": "<button id=\"enablealltool-access-tool-box-close-button\" aria-label=\"close\" class=\"enablealltool-item enableall-btn enableall-widget-header-close-btn\"><span class=\"visually-hidden\" style=\"position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); white-space: nowrap; border: 0px;\">Hidden Button</span></button>"
+        },
+        {
+          "text": "Reset settings  Shift + R Hidden Button",
+          "ariaLabel": "Reset settings  Shift + R Hidden Button",
+          "html": "<button id=\"enablealltool-reset-theme-button\" class=\"enablealltool-item enableall-btn enableall-widget-action-btn\" aria-label=\"Reset settings  Shift + R Hidden Button\"> <div class=\"enablealltool-item enableall-btn enableall-widget-action-btn-icon\"></div> <span data-i18n=\"mainWidget.resetSettings\">Reset settings</span> <span style=\"text-decoration:none!important;margin-bottom:-3px\" class=\"enablealltool-item ml-2 enableall-reset-shortcut enabelaaltool-mobile-visable-hidden\"> Shift + R</span> <span class=\"visually-hidden\" style=\"position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0"
+        },
+        {
+          "text": "Hidden Button",
+          "ariaLabel": "Hide toolbar",
+          "html": "<button type=\"button\" id=\"enableall-hide-toolbar-btn\" class=\"enablealltool-item enableall-btn enableall-widget-header-hide-btn\" aria-label=\"Hide toolbar\"><span class=\"visually-hidden\" style=\"position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); white-space: nowrap; border: 0px;\">Hidden Button</span></button>"
+        },
+        {
+          "text": "S",
+          "ariaLabel": "Small",
+          "html": "<button type=\"button\" class=\"enablealltool-item enableall-btn enableall-widget-size-toggle__btn enableall-widget-size-toggle__btn--active\" aria-label=\"Small\" data-size=\"s\" aria-pressed=\"true\"> S </button>"
+        },
+        {
+          "text": "L",
+          "ariaLabel": "Large",
+          "html": "<button type=\"button\" class=\"enablealltool-item enableall-btn enableall-widget-size-toggle__btn\" data-size=\"l\" aria-label=\"Large\" aria-pressed=\"false\"> L </button>"
+        },
+        {
+          "text": "Select language  EN English   Hidden Button",
+          "ariaLabel": "Select language  EN English   Hidden Button",
+          "html": "<button class=\"enableall-dropdown-button\" type=\"button\" aria-haspopup=\"true\" aria-controls=\"essential-access-content\" data-ignore-accessibility-fix=\"true\" aria-label=\"Select language  EN English   Hidden Button\"> <span class=\"enableall-dropdown-selected\"> <span class=\"enableall-dropdown-heading\" data-i18n=\"mainWidget.collapsibleButtons.selectLang\">Select language</span> <span class=\"enableall-dropdown-selected-lang\"> <span class=\"enableall-dropdown-circle\" id=\"selectedValue\">EN</span> <span id=\"selectedTitle\">English</span></span> </span> <span class=\"enablealltool-item enableall-widget-collapsible-btn-arrow enableall-dropdown-arrow enableall"
+        },
+        {
+          "text": "Essential access  Hidden Button",
+          "ariaLabel": "Essential access  Hidden Button",
+          "html": "<button class=\"enablealltool-item enableall-widget-collapsible-btn\" id=\"essential-access-btn\" aria-haspopup=\"true\" aria-expanded=\"true\" aria-controls=\"essential-access-content\" data-ignore-accessibility-fix=\"true\" aria-label=\"Essential access  Hidden Button\"> <div class=\"enablealltool-item enableall-h3\" data-i18n=\"mainWidget.collapsibleButtons.essentialAccess\">Essential access</div> <span class=\"enablealltool-item enableall-widget-collapsible-btn-arrow\" id=\"essential-access-icon\" style=\"transform: rotate(0deg);\"></span> <span class=\"visually-hidden\" style=\"position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidd"
+        },
+        {
+          "text": "Simplify text    Click text then icon to see Grade 9 simplified version for easier understanding.  H",
+          "ariaLabel": "Simplify text",
+          "html": "<button id=\"enablealltool-enable-rewriting-button\" class=\"enablealltool-item enableall-widget-essential-btn\" aria-label=\"Simplify text\"> <span class=\"enablealltool-item enableall-widget-essential-btn-content\"> <span class=\"enablealltool-item enableall-widget-tool-heading-icon enableall-widget-tool-heading-icon__simplify-text\"></span> <span data-i18n=\"essentialAccess.buttons.simplifyText\">Simplify text</span> </span> <span class=\"enablealltool-item enableall-widget-essential-btn-content-info-icon\" tabindex=\"0\" aria-label=\"Click text then icon to see Grade 9 simplified version for easier understanding.\"></span> <span class=\"enablealltool-item e"
+        },
+        {
+          "text": "Read out text    Click on block of text to hear it read aloud - move back, forward or enable continu",
+          "ariaLabel": "Read out text",
+          "html": "<button aria-label=\"Read out text\" id=\"enablealltool-screen-reader-button\" value=\"readMore\" class=\"enablealltool-item enableall-widget-essential-btn\"> <span class=\"enablealltool-item enableall-widget-essential-btn-content\"> <span class=\"enablealltool-item enableall-widget-tool-heading-icon enableall-widget-tool-heading-icon__read-text\"></span> <span data-i18n=\"essentialAccess.buttons.readOutText\">Read out text</span> </span> <span class=\"enablealltool-item enableall-widget-essential-btn-content-info-icon\" tabindex=\"0\" aria-label=\"Click on block of text to hear it read aloud - move back, forward or enable continuous reading.\"></span> <span cla"
+        },
+        {
+          "text": "Sign language    Click text to view it in sign language.  Hidden Button",
+          "ariaLabel": "Sign Language",
+          "html": "<button aria-label=\"Sign Language\" id=\"enablealltool-enable-sign-language-button\" class=\"enablealltool-item enableall-widget-essential-btn\"> <span class=\"enablealltool-item enableall-widget-essential-btn-content\"> <span class=\"enablealltool-item enableall-widget-tool-heading-icon enableall-widget-tool-heading-icon__sign-language\"></span> <span data-i18n=\"essentialAccess.buttons.signLanguage\">Sign language</span> </span> <span class=\"enablealltool-item enableall-widget-essential-btn-content-info-icon\" tabindex=\"0\" aria-label=\"Click text to view it in sign language.\"></span> <span class=\"enablealltool-item enableall-widget-essential-btn-content"
+        },
+        {
+          "text": "Stop Animations    Stops all moving content on the page to support seizure-safe and more focused bro",
+          "ariaLabel": "Stop animation",
+          "html": "<button aria-label=\"Stop animation\" id=\"enablealltool-stop-animation-button\" value=\"readMore\" class=\"enablealltool-item enableall-widget-essential-btn\"> <span class=\"enablealltool-item enableall-widget-essential-btn-content\"> <span class=\"enablealltool-item enableall-widget-tool-heading-icon enableall-widget-tool-heading-icon__stop-animation\"></span> <span data-i18n=\"essentialAccess.buttons.stopAnimations\">Stop Animations</span> </span> <span class=\"enablealltool-item enableall-widget-essential-btn-content-info-icon\" tabindex=\"0\" aria-label=\"Stops all moving content on the page to support seizure-safe and more focused browsing.\"></span> <span"
+        },
+        {
+          "text": "Mute sounds    Mutes all media on the page to support focus and screen reader use.  Hidden Button",
+          "ariaLabel": "Mute Sounds",
+          "html": "<button aria-label=\"Mute Sounds\" id=\"enablealltool-mute-sound-button\" value=\"readMore\" class=\"enablealltool-item enableall-widget-essential-btn\"> <span class=\"enablealltool-item enableall-widget-essential-btn-content\"> <span class=\"enablealltool-item enableall-widget-tool-heading-icon enableall-widget-tool-heading-icon__mute-sounds\"></span> <span data-i18n=\"essentialAccess.buttons.muteSounds\">Mute sounds</span> </span> <span class=\"enablealltool-item enableall-widget-essential-btn-content-info-icon\" tabindex=\"0\" aria-label=\"Mutes all media on the page to support focus and screen reader use\"></span> <span class=\"enablealltool-item enableall-wi"
+        },
+        {
+          "text": "Video captions    Adds text captions of audio content to video and audio.  Hidden Button",
+          "ariaLabel": "Video Captions",
+          "html": "<button aria-label=\"Video Captions\" id=\"enablealltool-enable-video-button\" class=\"enablealltool-item enableall-widget-essential-btn\"> <span class=\"enablealltool-item enableall-widget-essential-btn-content\"> <span class=\"enablealltool-item enableall-widget-tool-heading-icon enableall-widget-tool-heading-icon__video-captions\"></span> <span data-i18n=\"essentialAccess.buttons.videoCaptions\">Video captions</span> </span> <span class=\"enablealltool-item enableall-widget-essential-btn-content-info-icon\" tabindex=\"0\" aria-label=\" Adds text captions of audio content to video and audio.\"></span> <span class=\"enablealltool-item enableall-widget-essentia"
+        },
+        {
+          "text": "Declutter content    Remove non-essential content to reduce distraction and improve focus.  Hidden B",
+          "ariaLabel": "Declutter Content",
+          "html": "<button aria-label=\"Declutter Content\" id=\"enablealltool-enable-Declutter-button\" class=\"enablealltool-item enableall-widget-essential-btn\"> <span class=\"enablealltool-item enableall-widget-essential-btn-content\"> <span class=\"enablealltool-item enableall-widget-tool-heading-icon enableall-widget-tool-heading-icon__declutter-content\"></span> <span data-i18n=\"essentialAccess.buttons.declutterContent\">Declutter content</span> </span> <span class=\"enablealltool-item enableall-widget-essential-btn-content-info-icon\" tabindex=\"0\" aria-label=\"Remove non-essential content to reduce distraction and improve focus.\"></span> <span class=\"enablealltool-i"
+        },
+        {
+          "text": "Disable styling    Displays page content in a single column for better readability and flow.  Hidden",
+          "ariaLabel": "Disable styling",
+          "html": "<button aria-label=\"Disable styling\" id=\"enablealltool-read-mode-button\" value=\"readMore\" class=\"enablealltool-item enableall-widget-essential-btn\"> <span class=\"enablealltool-item enableall-widget-essential-btn-content\"> <span class=\"enablealltool-item enableall-widget-tool-heading-icon enableall-widget-tool-heading-icon__disable-styling\"></span> <span data-i18n=\"essentialAccess.buttons.disableStyling\">Disable styling</span> </span> <span class=\"enablealltool-item enableall-widget-essential-btn-content-info-icon\" tabindex=\"0\" aria-label=\"Displays page content in a single column for better readability and flow.\"></span> <span class=\"enableall"
+        },
+        {
+          "text": "Screen mask    Cover your screen in a single color tone to support visual comfort  Hidden Button",
+          "ariaLabel": "Screen Mask",
+          "html": "<button aria-label=\"Screen Mask\" id=\"enablealltool-screen-mask-v2-button\" class=\"enablealltool-item enableall-widget-essential-btn\"> <span class=\"enablealltool-item enableall-widget-essential-btn-content\"> <span class=\"enablealltool-item enableall-widget-tool-heading-icon enableall-widget-tool-heading-icon__screen-mask\"></span> <span data-i18n=\"essentialAccess.buttons.screenMask\">Screen mask</span> </span> <span class=\"enablealltool-item enableall-widget-essential-btn-content-info-icon\" tabindex=\"0\" aria-label=\"Cover your screen in a single colour tone to support visual comfort.\"></span> <span class=\"enablealltool-item enableall-widget-essent"
+        },
+        {
+          "text": "Image reader    See text, including text on an image, in a readable pop-up.  Hidden Button",
+          "ariaLabel": "Image Reader",
+          "html": "<button aria-label=\"Image Reader\" id=\"enablealltool-enable-image-reader-button\" class=\"enablealltool-item enableall-widget-essential-btn enabelaaltool-mobile-visable-hidden\"> <span class=\"enablealltool-item enableall-widget-essential-btn-content\"> <span class=\"enablealltool-item enableall-widget-tool-heading-icon enableall-widget-tool-heading-icon__i-reader\"></span> <span data-i18n=\"essentialAccess.buttons.imageReader\">Image reader</span> </span> <span class=\"enablealltool-item enableall-widget-essential-btn-content-info-icon\" tabindex=\"0\" aria-label=\"See text, including text on an image, in a readable pop-up.\"></span> <span class=\"enableallt"
+        }
+      ],
+      "counts": {
+        "buttons": 74,
+        "links": 331,
+        "landmarks": 1
+      },
+      "contentSample": "skip header\nShop \n \nAbout\n \nLFW\n \nBlogs and News\n \nPress\n \nContact\nGBP\nGBP\nUSD\nEUR\nCAD\nAUD\nINR\nJPY\nAED\n \nLogin\n \nCart (0)\nskip products\nBackless Crop Top\nR$ 293,69\nTax included.\nSize: XXS\nXXS\nXS\nS\nM\nL\nXL\n2XL\n3XL\n4XL\n5XL\nColor: Teal\nTeal\nMaterial: Heavy weight Jersey\nHeavy weight Jersey\nSize Chart\nQUANTITY\nMore payment options\n\nPRODUCT INFO\n\nWith a special focus on comfort, this top has a snap fastening at the back neck and a cropped design, this can work for all bodies from wheelchair user to short stature.\n\n\n - Snap fastening at back neck\n\n- Open back allows freedom of body movement especially for manual chair users and to aid ease of dressing.\n\nModel Tanya is wearing a size large and is a UK size 12\n\nShipping and returns \n\nShipping may take upto one week (Royal Mail dependent)\n\nPlease find more information on returns here \n\nCare Guide\n\nTo prolong the life of your garment:\n\nMachine wash"
+    },
+    "tabSequence": [
+      {
+        "tag": "A",
+        "id": "",
+        "text": "skip header",
+        "label": null,
+        "href": "#product-7656378269890"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "",
+        "label": null,
+        "href": "/"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Shop\n\n      \n\n\n  \n    \n      \n        \n      \n      .navigation__menulink .",
+        "label": null,
+        "href": "#"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "About",
+        "label": null,
+        "href": "/pages/about-unhidden"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "LFW",
+        "label": null,
+        "href": "/pages/london-fashion-week"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Blogs and News",
+        "label": null,
+        "href": "/blogs/blog"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Press",
+        "label": null,
+        "href": "/pages/press-new"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Contact",
+        "label": null,
+        "href": "/pages/contact-us"
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "text": "GBPGBPUSDEURCADAUDINRJPYAED",
+        "label": null,
+        "href": null
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": ".header__cart-links--search .icon--forge-search:hover .hover-fill { fill: v",
+        "label": "Search",
+        "href": "#"
+      }
+    ],
+    "violations": [
+      {
+        "id": "aria-valid-attr",
+        "impact": "critical",
+        "description": "Ensure attributes that begin with aria- are valid ARIA attributes",
+        "help": "ARIA attributes must conform to valid names",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/aria-valid-attr?application=axeAPI",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag412",
+          "EN-301-549",
+          "EN-9.4.1.2"
+        ],
+        "nodeCount": 1,
+        "nodes": [
+          {
+            "html": "<a class=\"navigation__menulink js-menu-link js-aria-expand js-open-dropdown-on-key is_upcase-false\" role=\"menuitem\" aria-haspop=\"true\" aria-expanded=\"false\" href=\"#\">",
+            "target": [
+              ".js-aria-expand"
+            ],
+            "failureSummary": "Fix any of the following:\n  Invalid ARIA attribute name: aria-haspop"
+          }
+        ]
+      },
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143",
+          "TTv5",
+          "TT13.c",
+          "EN-301-549",
+          "EN-9.1.4.3",
+          "ACT"
+        ],
+        "nodeCount": 2,
+        "nodes": [
+          {
+            "html": "<label for=\"swatch-detail-43160719392962-2-1\" class=\"swatch-anchor swatch-other globo-border-color-swatch globo-detail-style-circle globo-detail-size-medium globo-detail-border-style-double globo-detail-hover-effects-none \" style=\"display: block; background-color: #0ca0a7; font-size: 0;\" data-option-value=\"1\">",
+            "target": [
+              ".globo-border-color-swatch"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.57 (foreground color: #3b3a38, background color: #0ca0a7, font size: 0.0pt (0px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "html": "<input type=\"submit\" name=\"button\" data-variant-id=\"43160719392962\" class=\"button ajax-submit js-ajax-submit add-item add w100 inline-block  btn-secondary\" value=\"Add to Cart\">",
+            "target": [
+              "input[data-variant-id=\"43160719392962\"]"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.26 (foreground color: #3b3a38, background color: #8a898b, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio of 4.5:1"
+          }
+        ]
+      }
+    ],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodeCount": 11
+      }
+    ],
+    "passes": [
+      "aria-allowed-attr",
+      "aria-command-name",
+      "aria-conditional-attr",
+      "aria-deprecated-role",
+      "aria-hidden-body",
+      "aria-hidden-focus",
+      "aria-prohibited-attr",
+      "aria-required-attr",
+      "aria-required-children",
+      "aria-required-parent",
+      "aria-roles",
+      "aria-valid-attr-value",
+      "aria-valid-attr",
+      "avoid-inline-spacing",
+      "button-name",
+      "bypass",
+      "color-contrast",
+      "definition-list",
+      "dlitem",
+      "document-title",
+      "duplicate-id-aria",
+      "form-field-multiple-labels",
+      "html-has-lang",
+      "html-lang-valid",
+      "image-alt",
+      "input-button-name",
+      "label",
+      "link-in-text-block",
+      "link-name",
+      "list",
+      "listitem",
+      "meta-viewport",
+      "nested-interactive",
+      "scrollable-region-focusable",
+      "svg-img-alt",
+      "target-size"
+    ],
+    "axControlsWithoutName": [
+      {
+        "role": "textbox",
+        "name": "",
+        "properties": [
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          },
+          {
+            "name": "focusable",
+            "value": {
+              "type": "booleanOrUndefined",
+              "value": true
+            }
+          },
+          {
+            "name": "editable",
+            "value": {
+              "type": "token",
+              "value": "plaintext"
+            }
+          },
+          {
+            "name": "settable",
+            "value": {
+              "type": "booleanOrUndefined",
+              "value": true
+            }
+          },
+          {
+            "name": "multiline",
+            "value": {
+              "type": "boolean",
+              "value": false
+            }
+          },
+          {
+            "name": "readonly",
+            "value": {
+              "type": "boolean",
+              "value": false
+            }
+          },
+          {
+            "name": "required",
+            "value": {
+              "type": "boolean",
+              "value": false
+            }
+          },
+          {
+            "name": "labelledby",
+            "value": {
+              "type": "nodeList",
+              "relatedNodes": [
+                {
+                  "backendDOMNodeId": 1859,
+                  "text": ""
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "sourceCharacters": 953117,
+    "sourceBytesUtf8": 953619
+  },
+  {
+    "site": "pelagic",
+    "kind": "home",
+    "urlRequested": "https://pelagicgear.com/",
+    "url": "https://pelagicgear.com/en-br",
+    "collectedAt": "2026-11-09T01:56:44.264Z",
+    "httpStatus": 200,
+    "sourceSha256": "e87ee1c57a06579c03a649b1a5b50683636b4fa627afe31fcf384913217e71e6",
+    "browserVersion": "151.0.7922.34",
+    "axeVersion": "4.10.3",
+    "viewport": "1440x1000",
+    "dom": {
+      "title": "Performance Fishing Clothing | Pelagic Official Site | PELAGIC Fishing Gear",
+      "lang": "en",
+      "h1": [
+        "The Foul Weather Lineup",
+        "Performance Meets Print"
+      ],
+      "metas": [
+        {
+          "name": "description",
+          "content": "High Quality Fishing Clothing BUILT FOR FISHING. Fishing Shirts, Fishing Shorts, Fishing Hats, and Polarized Fishing Sunglasses."
+        }
+      ],
+      "canonical": "https://pelagicgear.com/en-br",
+      "images": {
+        "total": 269,
+        "withoutAlt": 0,
+        "emptyAlt": 119
+      },
+      "jsonld": [],
+      "buttons": [
+        {
+          "text": "",
+          "ariaLabel": "Toggle Men menu",
+          "html": "<button class=\"nav__toggle z-index\" id=\"men-menu-toggle\" aria-controls=\"men-menu\" aria-expanded=\"false\" aria-label=\"Toggle Men menu\" data-menu-toggle=\"\" type=\"button\" onclick=\"\n              const $menuItem = event.target.closest('[data-nav-menu]');\n              const $openMenu = document.querySelector('[data-nav-menu].menu-active');\n\n              if ($openMenu &amp;&amp; $openMenu !== $menuItem) {\n                $openMenu.classList.remove('menu-active');\n                $openMenu.querySelector('[data-menu-toggle]').setAttribute('aria-expanded', false);\n              }\n\n              document.querySelectorAll('.nav__menu').forEach(el =&gt;"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Toggle Women menu",
+          "html": "<button class=\"nav__toggle z-index\" id=\"women-menu-toggle\" aria-controls=\"women-menu\" aria-expanded=\"false\" aria-label=\"Toggle Women menu\" data-menu-toggle=\"\" type=\"button\" onclick=\"\n              const $menuItem = event.target.closest('[data-nav-menu]');\n              const $openMenu = document.querySelector('[data-nav-menu].menu-active');\n\n              if ($openMenu &amp;&amp; $openMenu !== $menuItem) {\n                $openMenu.classList.remove('menu-active');\n                $openMenu.querySelector('[data-menu-toggle]').setAttribute('aria-expanded', false);\n              }\n\n              document.querySelectorAll('.nav__menu').forEach(el"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Toggle Youth menu",
+          "html": "<button class=\"nav__toggle z-index\" id=\"youth-menu-toggle\" aria-controls=\"youth-menu\" aria-expanded=\"false\" aria-label=\"Toggle Youth menu\" data-menu-toggle=\"\" type=\"button\" onclick=\"\n              const $menuItem = event.target.closest('[data-nav-menu]');\n              const $openMenu = document.querySelector('[data-nav-menu].menu-active');\n\n              if ($openMenu &amp;&amp; $openMenu !== $menuItem) {\n                $openMenu.classList.remove('menu-active');\n                $openMenu.querySelector('[data-menu-toggle]').setAttribute('aria-expanded', false);\n              }\n\n              document.querySelectorAll('.nav__menu').forEach(el"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Toggle Headwear menu",
+          "html": "<button class=\"nav__toggle z-index\" id=\"headwear-menu-toggle\" aria-controls=\"headwear-menu\" aria-expanded=\"false\" aria-label=\"Toggle Headwear menu\" data-menu-toggle=\"\" type=\"button\" onclick=\"\n              const $menuItem = event.target.closest('[data-nav-menu]');\n              const $openMenu = document.querySelector('[data-nav-menu].menu-active');\n\n              if ($openMenu &amp;&amp; $openMenu !== $menuItem) {\n                $openMenu.classList.remove('menu-active');\n                $openMenu.querySelector('[data-menu-toggle]').setAttribute('aria-expanded', false);\n              }\n\n              document.querySelectorAll('.nav__menu').f"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Toggle Accessories menu",
+          "html": "<button class=\"nav__toggle z-index\" id=\"accessories-menu-toggle\" aria-controls=\"accessories-menu\" aria-expanded=\"false\" aria-label=\"Toggle Accessories menu\" data-menu-toggle=\"\" type=\"button\" onclick=\"\n              const $menuItem = event.target.closest('[data-nav-menu]');\n              const $openMenu = document.querySelector('[data-nav-menu].menu-active');\n\n              if ($openMenu &amp;&amp; $openMenu !== $menuItem) {\n                $openMenu.classList.remove('menu-active');\n                $openMenu.querySelector('[data-menu-toggle]').setAttribute('aria-expanded', false);\n              }\n\n              document.querySelectorAll('.nav_"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Toggle Sunglasses menu",
+          "html": "<button class=\"nav__toggle z-index\" id=\"sunglasses-menu-toggle\" aria-controls=\"sunglasses-menu\" aria-expanded=\"false\" aria-label=\"Toggle Sunglasses menu\" data-menu-toggle=\"\" type=\"button\" onclick=\"\n              const $menuItem = event.target.closest('[data-nav-menu]');\n              const $openMenu = document.querySelector('[data-nav-menu].menu-active');\n\n              if ($openMenu &amp;&amp; $openMenu !== $menuItem) {\n                $openMenu.classList.remove('menu-active');\n                $openMenu.querySelector('[data-menu-toggle]').setAttribute('aria-expanded', false);\n              }\n\n              document.querySelectorAll('.nav__me"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Toggle Sale menu",
+          "html": "<button class=\"nav__toggle z-index\" id=\"sale-menu-toggle\" aria-controls=\"sale-menu\" aria-expanded=\"false\" aria-label=\"Toggle Sale menu\" data-menu-toggle=\"\" type=\"button\" onclick=\"\n              const $menuItem = event.target.closest('[data-nav-menu]');\n              const $openMenu = document.querySelector('[data-nav-menu].menu-active');\n\n              if ($openMenu &amp;&amp; $openMenu !== $menuItem) {\n                $openMenu.classList.remove('menu-active');\n                $openMenu.querySelector('[data-menu-toggle]').setAttribute('aria-expanded', false);\n              }\n\n              document.querySelectorAll('.nav__menu').forEach(el =&"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Toggle Explore menu",
+          "html": "<button class=\"nav__toggle z-index\" id=\"explore-menu-toggle\" aria-controls=\"explore-menu\" aria-expanded=\"false\" aria-label=\"Toggle Explore menu\" data-menu-toggle=\"\" type=\"button\" onclick=\"\n              const $menuItem = event.target.closest('[data-nav-menu]');\n              const $openMenu = document.querySelector('[data-nav-menu].menu-active');\n\n              if ($openMenu &amp;&amp; $openMenu !== $menuItem) {\n                $openMenu.classList.remove('menu-active');\n                $openMenu.querySelector('[data-menu-toggle]').setAttribute('aria-expanded', false);\n              }\n\n              document.querySelectorAll('.nav__menu').forE"
+        },
+        {
+          "text": "BR",
+          "ariaLabel": "Change region",
+          "html": "<button type=\"button\" class=\"disclosure__button\" aria-expanded=\"false\" aria-controls=\"CountryList\" aria-label=\"Change region\">\n        <span class=\"fi fi-br\" role=\"img\" aria-label=\"Country of Brazil's flag\"></span>\n        <span class=\"country-name country-name--active \">BR</span>\n      </button>"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Close",
+          "html": "<button class=\"search-menu__close position transform\" style=\"\n        --position: absolute;\n        --position-right: var(--wrap-h);\n        --position-top: 50%;\n        --transform: translateY(-50%);\n        background-color: #000;\n        border-radius: 100%;\n        height: 32px;\n        width: 32px;\n      \" type=\"button\" onclick=\"\n        html.classList.remove('search-menu--active');\n        document.body.style.position = null;\n        document.body.style.left = null;\n        document.body.style.right = null;\n        document.body.style.top = null;\n        window.scrollTo(0, window.pageY);\n        requestAnimationFrame(() =&gt; {\n        "
+        },
+        {
+          "text": "",
+          "ariaLabel": "Previous slide",
+          "html": "<button class=\"swiper-arrow swiper-arrow--prev cursor hover transition swiper-button-disabled\" type=\"button\" style=\"\n      --hover-light-override: #f5f5f5;\n      background-color: var(--hover-light, white);\n      background-image: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxNCAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNC43NTEyMyAwQzQuOTQyNTcgMS43MjM5NiA1LjQxNzY5IDMuNDUyMDMgNi40MjM4MyA0LjkxMTI0QzQuMjgyNTUgNC45MTMyOSAyLjE0MTI4IDQuOTEzMjkgMCA0LjkxNTM0TDAgNy4wODA1NUMyLjEyNjIzIDcuMDgwNTUgNC4yNTI0NiA3LjA4MDU1IDYuMzc4NjkgNy4wODA1NUM1LjQwNDc5IDguNTU2MTggNC44NTg3MiAxMC4y"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Next slide",
+          "html": "<button class=\"swiper-arrow swiper-arrow--next cursor hover transition\" type=\"button\" style=\"\n      --hover-light-override: #f5f5f5;\n      background-color: var(--hover-light, white);\n      background-image: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxNCAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNC43NTEyMyAwQzQuOTQyNTcgMS43MjM5NiA1LjQxNzY5IDMuNDUyMDMgNi40MjM4MyA0LjkxMTI0QzQuMjgyNTUgNC45MTMyOSAyLjE0MTI4IDQuOTEzMjkgMCA0LjkxNTM0TDAgNy4wODA1NUMyLjEyNjIzIDcuMDgwNTUgNC4yNTI0NiA3LjA4MDU1IDYuMzc4NjkgNy4wODA1NUM1LjQwNDc5IDguNTU2MTggNC44NTg3MiAxMC4yNjM3IDQuNzM2MTggMTJDNy4"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Previous slide",
+          "html": "<button class=\"swiper-arrow swiper-arrow--prev swiper-button-disabled\" type=\"button\" disabled=\"\" tabindex=\"-1\" aria-label=\"Previous slide\" aria-controls=\"swiper-wrapper-6cce1bb363d1b7db\" aria-disabled=\"true\"></button>"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Next slide",
+          "html": "<button class=\"swiper-arrow swiper-arrow--next\" type=\"button\" tabindex=\"0\" aria-label=\"Next slide\" aria-controls=\"swiper-wrapper-6cce1bb363d1b7db\" aria-disabled=\"false\"></button>"
+        },
+        {
+          "text": "Submit",
+          "ariaLabel": null,
+          "html": "<button class=\"button button--alt\" type=\"submit\" style=\"\n      --button-background-color-alt: var(--footer-color);\n      --button-border-color-alt: var(--footer-color);\n      --button-color: var(--footer-background-color);\n    \">\n    Submit\n  </button>"
+        }
+      ],
+      "counts": {
+        "buttons": 160,
+        "links": 807,
+        "landmarks": 1
+      },
+      "contentSample": "MEN\nWOMEN\nYOUTH\nHEADWEAR\nACCESSORIES\nGIFT GUIDE\nSUNGLASSES\nSALE\nEXPLORE\nBR\nCart\nThe Foul Weather Lineup\nA complete range of technical outerwear built to keep you protected, whatever the forecast\nSHOP FOUL WEATHER\nLEARN MORE\nJust Dropped\nMens\nWomens\nYouth\nFlannels & Hoodies\nSHOP NOW\n- SHOP A SELECTION OF MENS HOODIES AND FLANNELS\nFishing Pants\nSHOP NOW\n- SHOP A SELECTION OF MEN'S FISHING PANTS AND BIBS\nThe Pelagic Gift Guide\nFrom offshore essentials to everyday favorites, find gifts the whole family will love\nSHOP THE GIFT GUIDE\nShop By Category\nMens\nWomens\nYouth\nSunglasses\nAccessories\nShop All\n- Shop all men's products\nFishing Shirts\nFishing Shorts\nFishing Pants\nT-Shirts\nFoul Weather\nJackets\nHoodies & Flannels\nBest Sellers\nPerformance Meets Print\nSignature Wahoo Camo meets the season's Mangrove colorway in performance-driven styles built for life offshore\nSHOP MEN'S\nSHOP WOMEN'S\nHeadwear"
+    },
+    "tabSequence": [
+      {
+        "tag": "A",
+        "id": "",
+        "text": "",
+        "label": "View homepage",
+        "href": "/en-br"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Men",
+        "label": null,
+        "href": "/en-br/collections/mens-fishing-clothing"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "men-menu-toggle",
+        "text": "",
+        "label": "Toggle Men menu",
+        "href": null
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Women",
+        "label": null,
+        "href": "/en-br/collections/womens-fishing-clothing"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "women-menu-toggle",
+        "text": "",
+        "label": "Toggle Women menu",
+        "href": null
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Youth",
+        "label": null,
+        "href": "/en-br/collections/youth-fishing-clothing"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "youth-menu-toggle",
+        "text": "",
+        "label": "Toggle Youth menu",
+        "href": null
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Headwear",
+        "label": null,
+        "href": "/en-br/collections/fishing-hats"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "headwear-menu-toggle",
+        "text": "",
+        "label": "Toggle Headwear menu",
+        "href": null
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Accessories",
+        "label": null,
+        "href": "/en-br/collections/fishing-accessories"
+      }
+    ],
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodeCount": 6
+      }
+    ],
+    "passes": [
+      "aria-allowed-attr",
+      "aria-conditional-attr",
+      "aria-deprecated-role",
+      "aria-hidden-body",
+      "aria-hidden-focus",
+      "aria-prohibited-attr",
+      "aria-required-attr",
+      "aria-required-children",
+      "aria-required-parent",
+      "aria-roles",
+      "aria-valid-attr-value",
+      "aria-valid-attr",
+      "autocomplete-valid",
+      "avoid-inline-spacing",
+      "button-name",
+      "bypass",
+      "color-contrast",
+      "document-title",
+      "duplicate-id-aria",
+      "form-field-multiple-labels",
+      "html-has-lang",
+      "html-lang-valid",
+      "image-alt",
+      "label",
+      "link-in-text-block",
+      "link-name",
+      "meta-viewport",
+      "nested-interactive",
+      "role-img-alt",
+      "target-size"
+    ],
+    "axControlsWithoutName": [],
+    "sourceCharacters": 1038787,
+    "sourceBytesUtf8": 1039043
+  },
+  {
+    "site": "pelagic",
+    "kind": "product",
+    "urlRequested": "https://pelagicgear.com/en-br/collections/fishing-shirts/products/exo-tech-solid-mangrove/",
+    "url": "https://pelagicgear.com/en-br/collections/fishing-shirts/products/exo-tech-solid-mangrove/",
+    "collectedAt": "2026-11-09T01:58:30.989Z",
+    "httpStatus": 200,
+    "sourceSha256": "4b8bb36f1abff3113844ffbde7aca5fbd50dd36787159adc9a1a4ed5651e293f",
+    "browserVersion": "151.0.7922.34",
+    "axeVersion": "4.10.3",
+    "viewport": "1440x1000",
+    "dom": {
+      "title": "PELAGIC Hooded Fishing Shirt - Exo-Tech",
+      "lang": "en",
+      "h1": [
+        "Exo-Tech"
+      ],
+      "metas": [
+        {
+          "name": "description",
+          "content": "The Exo-Tech provides 360° protection for long days in the sun. Featuring UPF 50+ protection, recycled 4-way stretch fabric with PFAS free water & stain repellency, integrated face mask, zippered pockets and strategic ventilation for airflow."
+        }
+      ],
+      "canonical": "https://pelagicgear.com/en-br/products/exo-tech-solid-mangrove",
+      "images": {
+        "total": 231,
+        "withoutAlt": 0,
+        "emptyAlt": 84
+      },
+      "jsonld": [
+        {
+          "@context": "http://schema.org/",
+          "@id": "/en-br/products/exo-tech-solid-mangrove#product",
+          "@type": "ProductGroup",
+          "brand": {
+            "@type": "Brand",
+            "name": "Apparel"
+          },
+          "category": "Hooded Fishing Shirt",
+          "description": "The Exo-Tech provides 360° protection for long days in the sun. Featuring UPF 50+ protection, recycled 4-way stretch fabric with PFAS free water &amp; stain repellency, integrated face mask, zippered pockets and strategic ventilation for airflow.\n\nUPF 50+ Protection\nRecycled Fabric\n4-Way Stretch\nPFAS Free (C0)\nWater &amp; Stain Repellent\nIntegrated Face Mask\nZipper Pockets\nVented For Air Flow\n\nMaterial: 86% Recycled Polyester 14% Elastane\nModel Measurements:\n\nWearing: M\nHeight: 6' / Waist: 32\n",
+          "hasVariant": [
+            {
+              "@id": "/en-br/products/exo-tech-solid-mangrove?variant=53484271370424#variant",
+              "@type": "Product",
+              "gtin": "190015350419",
+              "image": "https://pelagicgear.com/cdn/shop/files/1015243013-MAN-1.jpg?v=1784579109&width=1920",
+              "name": "Exo-Tech - Mangrove / XS",
+              "offers": {
+                "@id": "/en-br/products/exo-tech-solid-mangrove?variant=53484271370424#offer",
+                "@type": "Offer",
+                "availability": "http://schema.org/InStock",
+                "price": "601.00",
+                "priceCurrency": "BRL",
+                "url": "https://pelagicgear.com/en-br/products/exo-tech-solid-mangrove?variant=53484271370424"
+              },
+              "sku": "1015243013-MAN-_-XS"
+            },
+            {
+              "@id": "/en-br/products/exo-tech-solid-mangrove?variant=53484271403192#variant",
+              "@type": "Product",
+              "gtin": "190015300711",
+              "image": "https://pelagicgear.com/cdn/shop/files/1015243013-MAN-1.jpg?v=1784579109&width=1920",
+              "name": "Exo-Tech - Mangrove / S",
+              "offers": {
+                "@id": "/en-br/products/exo-tech-solid-mangrove?variant=53484271403192#offer",
+                "@type": "Offer",
+                "availability": "http://schema.org/InStock",
+                "price": "601.00",
+                "priceCurrency": "BRL",
+                "url": "https://pelagicgear.com/en-br/products/exo-tech-solid-mangrove?variant=53484271403192"
+              },
+              "sku": "1015243013-MAN-_-S"
+            },
+            {
+              "@id": "/en-br/products/exo-tech-solid-mangrove?variant=53484271435960#variant",
+              "@type": "Product",
+              "gtin": "190015300728",
+              "image": "https://pelagicgear.com/cdn/shop/files/1015243013-MAN-1.jpg?v=1784579109&width=1920",
+              "name": "Exo-Tech - Mangrove / M",
+              "offers": {
+                "@id": "/en-br/products/exo-tech-solid-mangrove?variant=53484271435960#offer",
+                "@type": "Offer",
+                "availability": "http://schema.org/InStock",
+                "price": "601.00",
+                "priceCurrency": "BRL",
+                "url": "https://pelagicgear.com/en-br/products/exo-tech-solid-mangrove?variant=53484271435960"
+              },
+              "sku": "1015243013-MAN-_-M"
+            },
+            {
+              "@id": "/en-br/products/exo-tech-solid-mangrove?variant=53484271468728#variant",
+              "@type": "Product",
+              "gtin": "190015300735",
+              "image": "https://pelagicgear.com/cdn/shop/files/1015243013-MAN-1.jpg?v=1784579109&width=1920",
+              "name": "Exo-Tech - Mangrove / L",
+              "offers": {
+                "@id": "/en-br/products/exo-tech-solid-mangrove?variant=53484271468728#offer",
+                "@type": "Offer",
+                "availability": "http://schema.org/OutOfStock",
+                "price": "601.00",
+                "priceCurrency": "BRL",
+                "url": "https://pelagicgear.com/en-br/products/exo-tech-solid-mangrove?variant=53484271468728"
+              },
+              "sku": "1015243013-MAN-_-L"
+            },
+            {
+              "@id": "/en-br/products/exo-tech-solid-mangrove?variant=53484271501496#variant",
+              "@type": "Product",
+              "gtin": "190015300742",
+              "image": "https://pelagicgear.com/cdn/shop/files/1015243013-MAN-1.jpg?v=1784579109&width=1920",
+              "name": "Exo-Tech - Mangrove / XL",
+              "offers": {
+                "@id": "/en-br/products/exo-tech-solid-mangrove?variant=53484271501496#offer",
+                "@type": "Offer",
+                "availability": "http://schema.org/OutOfStock",
+                "price": "601.00",
+                "priceCurrency": "BRL",
+                "url": "https://pelagicgear.com/en-br/products/exo-tech-solid-mangrove?variant=53484271501496"
+              },
+              "sku": "1015243013-MAN-_-XL"
+            },
+            {
+              "@id": "/en-br/products/exo-tech-solid-mangrove?variant=53484271534264#variant",
+              "@type": "Product",
+              "gtin": "190015300759",
+              "image": "https://pelagicgear.com/cdn/shop/files/1015243013-MAN-1.jpg?v=1784579109&width=1920",
+              "name": "Exo-Tech - Mangrove / XXL",
+              "offers": {
+                "@id": "/en-br/products/exo-tech-solid-mangrove?variant=53484271534264#offer",
+                "@type": "Offer",
+                "availability": "http://schema.org/OutOfStock",
+                "price": "601.00",
+                "priceCurrency": "BRL",
+                "url": "https://pelagicgear.com/en-br/products/exo-tech-solid-mangrove?variant=53484271534264"
+              },
+              "sku": "1015243013-MAN-_-XXL"
+            },
+            {
+              "@id": "/en-br/products/exo-tech-solid-mangrove?variant=53484271567032#variant",
+              "@type": "Product",
+              "gtin": "190015300766",
+              "image": "https://pelagicgear.com/cdn/shop/files/1015243013-MAN-1.jpg?v=1784579109&width=1920",
+              "name": "Exo-Tech - Mangrove / 3XL",
+              "offers": {
+                "@id": "/en-br/products/exo-tech-solid-mangrove?variant=53484271567032#offer",
+                "@type": "Offer",
+                "availability": "http://schema.org/InStock",
+                "price": "601.00",
+                "priceCurrency": "BRL",
+                "url": "https://pelagicgear.com/en-br/products/exo-tech-solid-mangrove?variant=53484271567032"
+              },
+              "sku": "1015243013-MAN-_-3XL"
+            }
+          ],
+          "name": "Exo-Tech",
+          "productGroupID": "10408789344440",
+          "url": "https://pelagicgear.com/en-br/products/exo-tech-solid-mangrove",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.9",
+            "reviewCount": "395"
+          }
+        }
+      ],
+      "buttons": [
+        {
+          "text": "",
+          "ariaLabel": "Toggle Men menu",
+          "html": "<button class=\"nav__toggle z-index\" id=\"men-menu-toggle\" aria-controls=\"men-menu\" aria-expanded=\"false\" aria-label=\"Toggle Men menu\" data-menu-toggle=\"\" type=\"button\" onclick=\"\n              const $menuItem = event.target.closest('[data-nav-menu]');\n              const $openMenu = document.querySelector('[data-nav-menu].menu-active');\n\n              if ($openMenu &amp;&amp; $openMenu !== $menuItem) {\n                $openMenu.classList.remove('menu-active');\n                $openMenu.querySelector('[data-menu-toggle]').setAttribute('aria-expanded', false);\n              }\n\n              document.querySelectorAll('.nav__menu').forEach(el =&gt;"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Toggle Women menu",
+          "html": "<button class=\"nav__toggle z-index\" id=\"women-menu-toggle\" aria-controls=\"women-menu\" aria-expanded=\"false\" aria-label=\"Toggle Women menu\" data-menu-toggle=\"\" type=\"button\" onclick=\"\n              const $menuItem = event.target.closest('[data-nav-menu]');\n              const $openMenu = document.querySelector('[data-nav-menu].menu-active');\n\n              if ($openMenu &amp;&amp; $openMenu !== $menuItem) {\n                $openMenu.classList.remove('menu-active');\n                $openMenu.querySelector('[data-menu-toggle]').setAttribute('aria-expanded', false);\n              }\n\n              document.querySelectorAll('.nav__menu').forEach(el"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Toggle Youth menu",
+          "html": "<button class=\"nav__toggle z-index\" id=\"youth-menu-toggle\" aria-controls=\"youth-menu\" aria-expanded=\"false\" aria-label=\"Toggle Youth menu\" data-menu-toggle=\"\" type=\"button\" onclick=\"\n              const $menuItem = event.target.closest('[data-nav-menu]');\n              const $openMenu = document.querySelector('[data-nav-menu].menu-active');\n\n              if ($openMenu &amp;&amp; $openMenu !== $menuItem) {\n                $openMenu.classList.remove('menu-active');\n                $openMenu.querySelector('[data-menu-toggle]').setAttribute('aria-expanded', false);\n              }\n\n              document.querySelectorAll('.nav__menu').forEach(el"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Toggle Headwear menu",
+          "html": "<button class=\"nav__toggle z-index\" id=\"headwear-menu-toggle\" aria-controls=\"headwear-menu\" aria-expanded=\"false\" aria-label=\"Toggle Headwear menu\" data-menu-toggle=\"\" type=\"button\" onclick=\"\n              const $menuItem = event.target.closest('[data-nav-menu]');\n              const $openMenu = document.querySelector('[data-nav-menu].menu-active');\n\n              if ($openMenu &amp;&amp; $openMenu !== $menuItem) {\n                $openMenu.classList.remove('menu-active');\n                $openMenu.querySelector('[data-menu-toggle]').setAttribute('aria-expanded', false);\n              }\n\n              document.querySelectorAll('.nav__menu').f"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Toggle Accessories menu",
+          "html": "<button class=\"nav__toggle z-index\" id=\"accessories-menu-toggle\" aria-controls=\"accessories-menu\" aria-expanded=\"false\" aria-label=\"Toggle Accessories menu\" data-menu-toggle=\"\" type=\"button\" onclick=\"\n              const $menuItem = event.target.closest('[data-nav-menu]');\n              const $openMenu = document.querySelector('[data-nav-menu].menu-active');\n\n              if ($openMenu &amp;&amp; $openMenu !== $menuItem) {\n                $openMenu.classList.remove('menu-active');\n                $openMenu.querySelector('[data-menu-toggle]').setAttribute('aria-expanded', false);\n              }\n\n              document.querySelectorAll('.nav_"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Toggle Sunglasses menu",
+          "html": "<button class=\"nav__toggle z-index\" id=\"sunglasses-menu-toggle\" aria-controls=\"sunglasses-menu\" aria-expanded=\"false\" aria-label=\"Toggle Sunglasses menu\" data-menu-toggle=\"\" type=\"button\" onclick=\"\n              const $menuItem = event.target.closest('[data-nav-menu]');\n              const $openMenu = document.querySelector('[data-nav-menu].menu-active');\n\n              if ($openMenu &amp;&amp; $openMenu !== $menuItem) {\n                $openMenu.classList.remove('menu-active');\n                $openMenu.querySelector('[data-menu-toggle]').setAttribute('aria-expanded', false);\n              }\n\n              document.querySelectorAll('.nav__me"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Toggle Sale menu",
+          "html": "<button class=\"nav__toggle z-index\" id=\"sale-menu-toggle\" aria-controls=\"sale-menu\" aria-expanded=\"false\" aria-label=\"Toggle Sale menu\" data-menu-toggle=\"\" type=\"button\" onclick=\"\n              const $menuItem = event.target.closest('[data-nav-menu]');\n              const $openMenu = document.querySelector('[data-nav-menu].menu-active');\n\n              if ($openMenu &amp;&amp; $openMenu !== $menuItem) {\n                $openMenu.classList.remove('menu-active');\n                $openMenu.querySelector('[data-menu-toggle]').setAttribute('aria-expanded', false);\n              }\n\n              document.querySelectorAll('.nav__menu').forEach(el =&"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Toggle Explore menu",
+          "html": "<button class=\"nav__toggle z-index\" id=\"explore-menu-toggle\" aria-controls=\"explore-menu\" aria-expanded=\"false\" aria-label=\"Toggle Explore menu\" data-menu-toggle=\"\" type=\"button\" onclick=\"\n              const $menuItem = event.target.closest('[data-nav-menu]');\n              const $openMenu = document.querySelector('[data-nav-menu].menu-active');\n\n              if ($openMenu &amp;&amp; $openMenu !== $menuItem) {\n                $openMenu.classList.remove('menu-active');\n                $openMenu.querySelector('[data-menu-toggle]').setAttribute('aria-expanded', false);\n              }\n\n              document.querySelectorAll('.nav__menu').forE"
+        },
+        {
+          "text": "BR",
+          "ariaLabel": "Change region",
+          "html": "<button type=\"button\" class=\"disclosure__button\" aria-expanded=\"false\" aria-controls=\"CountryList\" aria-label=\"Change region\">\n        <span class=\"fi fi-br\" role=\"img\" aria-label=\"Country of Brazil's flag\"></span>\n        <span class=\"country-name country-name--active \">BR</span>\n      </button>"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Close",
+          "html": "<button class=\"search-menu__close position transform\" style=\"\n        --position: absolute;\n        --position-right: var(--wrap-h);\n        --position-top: 50%;\n        --transform: translateY(-50%);\n        background-color: #000;\n        border-radius: 100%;\n        height: 32px;\n        width: 32px;\n      \" type=\"button\" onclick=\"\n        html.classList.remove('search-menu--active');\n        document.body.style.position = null;\n        document.body.style.left = null;\n        document.body.style.right = null;\n        document.body.style.top = null;\n        window.scrollTo(0, window.pageY);\n        requestAnimationFrame(() =&gt; {\n        "
+        },
+        {
+          "text": "Add to bag",
+          "ariaLabel": null,
+          "html": "<button class=\"klaviyo-bis-trigger product-form__submit full-width\" \"=\"\" type=\"submit\" name=\"add\" aria-haspopup=\"dialog\">\n              Add to bag\n                \n            </button>"
+        },
+        {
+          "text": "ADD TO BAG",
+          "ariaLabel": null,
+          "html": "<button class=\"nosto-bundle-atc button full-width margin\" style=\"\n               --margin-desktop: 14px 0 0;\n               --margin-mobile: 14px 0 0;\n               \" aria-haspopup=\"dialog\">\n            ADD TO BAG\n            </button>"
+        },
+        {
+          "text": "ADD TO BAG",
+          "ariaLabel": null,
+          "html": "<button class=\"nosto-bundle-atc button full-width margin\" style=\"\n               --margin-desktop: 14px 0 0;\n               --margin-mobile: 14px 0 0;\n               \" aria-haspopup=\"dialog\">\n            ADD TO BAG\n            </button>"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Previous slide",
+          "html": "<button class=\"swiper-arrow swiper-arrow--prev swiper-button-disabled\" type=\"button\" disabled=\"\" tabindex=\"-1\" aria-label=\"Previous slide\" aria-controls=\"swiper-wrapper-5fa6cb435b10a1a7c\" aria-disabled=\"true\"></button>"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Next slide",
+          "html": "<button class=\"swiper-arrow swiper-arrow--next\" type=\"button\" tabindex=\"0\" aria-label=\"Next slide\" aria-controls=\"swiper-wrapper-5fa6cb435b10a1a7c\" aria-disabled=\"false\"></button>"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Previous slide",
+          "html": "<button class=\"swiper-arrow swiper-arrow--prev swiper-button-disabled\" type=\"button\" disabled=\"\" tabindex=\"-1\" aria-label=\"Previous slide\" aria-controls=\"swiper-wrapper-31e0a26ed51a455b\" aria-disabled=\"true\"></button>"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Next slide",
+          "html": "<button class=\"swiper-arrow swiper-arrow--next\" type=\"button\" tabindex=\"0\" aria-label=\"Next slide\" aria-controls=\"swiper-wrapper-31e0a26ed51a455b\" aria-disabled=\"false\"></button>"
+        },
+        {
+          "text": "Write A Review",
+          "ariaLabel": null,
+          "html": "<button data-v-4f716a87=\"\" id=\"yotpo-main-widget-btn\" type=\"button\" class=\"yotpo-new-review-btn yotpo-btn-s\">Write A Review</button>"
+        },
+        {
+          "text": "Read summary by topics",
+          "ariaLabel": "Read summary by topics – detailed reviews summary",
+          "html": "<button data-v-7e4cf4fd=\"\" data-v-f7d8397c=\"\" class=\"yotpo-reviews-summary-button yotpo-reviews-summary-button--style-1\" type=\"button\" aria-haspopup=\"dialog\" aria-label=\"Read summary by topics – detailed reviews summary\"><span data-v-7e4cf4fd=\"\" class=\"yotpo-reviews-summary-button-content\"><span data-v-7e4cf4fd=\"\" class=\"yotpo-reviews-summary-button-icon\"></span><span data-v-7e4cf4fd=\"\" class=\"yotpo-reviews-summary-button-text\">Read summary by topics</span></span></button>"
+        },
+        {
+          "text": "With media",
+          "ariaLabel": "Filter with media",
+          "html": "<button data-v-4d448264=\"\" id=\"mediaInput\" class=\"yotpo-media-select\" aria-pressed=\"false\" aria-label=\"Filter with media\"><div data-v-4d448264=\"\" class=\"yotpo-radio-base\"><div data-v-4d448264=\"\" class=\"yotpo-selected-value\">With media</div></div><svg data-v-4d448264=\"\" aria-hidden=\"true\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"yotpo-radio-icon\"><circle cx=\"8\" cy=\"8\" r=\"7.5\" stroke=\"#373330\"></circle></svg></button>"
+        },
+        {
+          "text": "fit",
+          "ariaLabel": null,
+          "html": "<button data-v-205495fe=\"\" class=\"yotpo-smart-topic-filter\" aria-pressed=\"false\" type=\"button\">fit</button>"
+        },
+        {
+          "text": "size",
+          "ariaLabel": null,
+          "html": "<button data-v-205495fe=\"\" class=\"yotpo-smart-topic-filter\" aria-pressed=\"false\" type=\"button\">size</button>"
+        },
+        {
+          "text": "weight",
+          "ariaLabel": null,
+          "html": "<button data-v-205495fe=\"\" class=\"yotpo-smart-topic-filter\" aria-pressed=\"false\" type=\"button\">weight</button>"
+        },
+        {
+          "text": "price",
+          "ariaLabel": null,
+          "html": "<button data-v-205495fe=\"\" class=\"yotpo-smart-topic-filter\" aria-pressed=\"false\" type=\"button\">price</button>"
+        }
+      ],
+      "counts": {
+        "buttons": 222,
+        "links": 760,
+        "landmarks": 2
+      },
+      "contentSample": "MEN\nWOMEN\nYOUTH\nHEADWEAR\nACCESSORIES\nGIFT GUIDE\nSUNGLASSES\nSALE\nEXPLORE\nBR\nCart\nHome\n Fishing Shirts\n Exo-Tech\nLOAD MORE\n- VIEW ALL PRODUCT IMAGES\nNew Color\nExo-Tech\nHooded Fishing Shirt\nRegular price\nR$ 601,00 BRL\n395 reviews with an average of 4.9 star rating\nReviews (395)\nChoose color: MANGROVE\nChoose your size: \nSIZE\nEXTRA SMALL\nSIZE GUIDE\nXS\nS\nM\nL\nXL\nXXL\n3XL\nADD TO BAG\nDescription\n\nThe Exo-Tech provides 360° protection for long days in the sun. Featuring UPF 50+ protection, recycled 4-way stretch fabric with PFAS free water & stain repellency, integrated face mask, zippered pockets and strategic ventilation for airflow.\n\nUPF 50+ Protection\nRecycled Fabric\n4-Way Stretch\nPFAS Free (C0)\nWater & Stain Repellent\nIntegrated Face Mask\nZipper Pockets\nVented For Air Flow\n\nMaterial: 86% Recycled Polyester 14% Elastane\n\nModel Measurements:\n\nWearing: M\nHeight: 6' / Waist: 32\nStyle Number: 10152"
+    },
+    "tabSequence": [
+      {
+        "tag": "A",
+        "id": "",
+        "text": "",
+        "label": "View homepage",
+        "href": "/en-br"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Men",
+        "label": null,
+        "href": "/en-br/collections/mens-fishing-clothing"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "men-menu-toggle",
+        "text": "",
+        "label": "Toggle Men menu",
+        "href": null
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Women",
+        "label": null,
+        "href": "/en-br/collections/womens-fishing-clothing"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "women-menu-toggle",
+        "text": "",
+        "label": "Toggle Women menu",
+        "href": null
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Youth",
+        "label": null,
+        "href": "/en-br/collections/youth-fishing-clothing"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "youth-menu-toggle",
+        "text": "",
+        "label": "Toggle Youth menu",
+        "href": null
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Headwear",
+        "label": null,
+        "href": "/en-br/collections/fishing-hats"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "headwear-menu-toggle",
+        "text": "",
+        "label": "Toggle Headwear menu",
+        "href": null
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Accessories",
+        "label": null,
+        "href": "/en-br/collections/fishing-accessories"
+      }
+    ],
+    "violations": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143",
+          "TTv5",
+          "TT13.c",
+          "EN-301-549",
+          "EN-9.1.4.3",
+          "ACT"
+        ],
+        "nodeCount": 4,
+        "nodes": [
+          {
+            "html": "<label for=\"product-form-template--29399434657976__main-Size-2-4-exo-tech-solid-mangrove\" style=\"\n              \n              opacity: 0.5;\n            \">\n          XL\n        </label>",
+            "target": [
+              "label:nth-child(11)"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.49 (foreground color: #898989, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "html": "<label for=\"product-form-template--29399434657976__main-Size-2-5-exo-tech-solid-mangrove\" style=\"\n              \n              opacity: 0.5;\n            \">\n          XXL\n        </label>",
+            "target": [
+              "label:nth-child(13)"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.49 (foreground color: #898989, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "html": "<a tabindex=\"0\" data-swatch=\"size\" data-inventory=\"0\" data-id=\"53484271501496\" href=\"javascript:void(0);\" class=\"product-tile__swatch-text\">XL</a>",
+            "target": [
+              "a[data-id=\"53484271501496\"]"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.94 (foreground color: #808080, background color: #ffffff, font size: 7.5pt (10px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "html": "<a tabindex=\"0\" data-swatch=\"size\" data-inventory=\"0\" data-id=\"53484271534264\" href=\"javascript:void(0);\" class=\"product-tile__swatch-text\">XXL</a>",
+            "target": [
+              "a[data-id=\"53484271534264\"]"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.94 (foreground color: #808080, background color: #ffffff, font size: 7.5pt (10px), font weight: normal). Expected contrast ratio of 4.5:1"
+          }
+        ]
+      }
+    ],
+    "incomplete": [
+      {
+        "id": "aria-valid-attr-value",
+        "nodeCount": 6
+      },
+      {
+        "id": "color-contrast",
+        "nodeCount": 86
+      }
+    ],
+    "passes": [
+      "aria-allowed-attr",
+      "aria-conditional-attr",
+      "aria-deprecated-role",
+      "aria-hidden-body",
+      "aria-hidden-focus",
+      "aria-input-field-name",
+      "aria-meter-name",
+      "aria-prohibited-attr",
+      "aria-required-attr",
+      "aria-roles",
+      "aria-valid-attr-value",
+      "aria-valid-attr",
+      "autocomplete-valid",
+      "avoid-inline-spacing",
+      "button-name",
+      "bypass",
+      "color-contrast",
+      "document-title",
+      "duplicate-id-aria",
+      "form-field-multiple-labels",
+      "html-has-lang",
+      "html-lang-valid",
+      "image-alt",
+      "label",
+      "link-in-text-block",
+      "link-name",
+      "list",
+      "listitem",
+      "meta-viewport",
+      "nested-interactive",
+      "role-img-alt",
+      "summary-name",
+      "target-size"
+    ],
+    "axControlsWithoutName": [],
+    "sourceCharacters": 1143930,
+    "sourceBytesUtf8": 1144216
+  },
+  {
+    "site": "wolverine",
+    "kind": "home",
+    "urlRequested": "https://www.wolverine.com/US/en/home",
+    "url": "https://www.wolverine.com/US/en/home",
+    "collectedAt": "2026-11-09T01:56:57.043Z",
+    "httpStatus": 200,
+    "sourceSha256": "37d8326dd47ea61e2c89fa5ba92bfff7744ab8d83dc1f17d56f03cbebce04997",
+    "browserVersion": "151.0.7922.34",
+    "axeVersion": "4.10.3",
+    "viewport": "1440x1000",
+    "dom": {
+      "title": "Official Wolverine.com: Tough Work Boots, Shoes, & Clothing",
+      "lang": "en-us",
+      "h1": [],
+      "metas": [
+        {
+          "name": "robots",
+          "content": "index, follow"
+        },
+        {
+          "name": "description",
+          "content": "Official Wolverine Site - Shop work boots & work shoes built for durability for tough jobs, outdoor activities, & casual style. Free shipping!"
+        }
+      ],
+      "canonical": "https://www.wolverine.com/US/en/home",
+      "images": {
+        "total": 131,
+        "withoutAlt": 3,
+        "emptyAlt": 27
+      },
+      "jsonld": [
+        {
+          "@context": "https://schema.org/",
+          "@type": "WebPage",
+          "url": "https://www.wolverine.com/on/demandware.store/Sites-wolverine_us-Site/default/Home-Show",
+          "name": "Official Wolverine.com: Tough Work Boots, Shoes, & Clothing",
+          "description": "Official Wolverine Site - Shop work boots & work shoes built for durability for tough jobs, outdoor activities, & casual style. Free shipping!"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Wolverine World Wide, Inc.",
+          "url": "https://www.wolverineworldwide.com/",
+          "logo": "https://www.wolverineworldwide.com/wp-content/themes/wolverine-site-1.1.3-2/images/wolverine-logo.png",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "customer service"
+          },
+          "sameAs": [
+            "https://www.facebook.com/WolverineWorldWide/",
+            "https://twitter.com/wolverineww",
+            "https://www.instagram.com/wolverineworldwide/",
+            "https://www.linkedin.com/company/wolverineworldwide/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "9341 Courtland Dr NE",
+            "addressLocality": "Rockford",
+            "addressRegion": "MI",
+            "postalCode": "49351",
+            "addressCountry": "US"
+          },
+          "telephone": "+1-616-866-5500",
+          "email": "wwwcommunications@wwwinc.com"
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "WebSite",
+          "name": "Wolverine",
+          "url": "https://www.wolverine.com/US/en/home",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.wolverine.com/US/en/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        }
+      ],
+      "buttons": [
+        {
+          "text": "SHOP AI\n\n\n\n\n\n\nbeta\nSHOP AI - AI Assistant Beta",
+          "ariaLabel": "SHOP AI - AI Assistant Beta",
+          "html": "<button type=\"button\" class=\"chat-header-navigation-link chat-widget-open-btn\" aria-label=\"SHOP AI - AI Assistant Beta\" title=\"SHOP AI\" aria-haspopup=\"dialog\" aria-expanded=\"false\">\n<span class=\"ai-pill-button\">\n<div class=\"nav-label-text\">\nSHOP AI\n<span class=\"ai-header-icon-wrap\" aria-hidden=\"true\">\n<img src=\"/on/demandware.static/Sites-wolverine_us-Site/-/default/dwd118351d/images/ai-icon.svg\" class=\"ai-sparkle-animated-svg\" alt=\"\" width=\"14\" height=\"14\">\n</span>\n</div>\n</span>\n<span class=\"nav-beta-tag\" aria-hidden=\"true\">\nbeta</span>\n<span class=\"visually-hidden\">SHOP AI - AI Assistant Beta</span>\n</button>"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Wolverine AI Close",
+          "html": "<button type=\"button\" class=\"close-viewport-btn chat-drawer-close-btn\" aria-label=\"Wolverine AI Close\">\n                <svg width=\"13\" height=\"13\" viewBox=\"0 0 13 13\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.25 5.34057L11.152 0.437714C11.2771 0.312571 11.4426 0.25 11.6071 0.25C11.9534 0.25 12.25 0.527714 12.25 0.892C12.25 1.05743 12.1874 1.222 12.0623 1.348L7.15943 6.25L12.0614 11.152C12.1874 11.278 12.25 11.4426 12.25 11.6071C12.25 11.9731 11.9509 12.25 11.6071 12.25C11.4426 12.25 11.2771 12.1874 11.152 12.0623L6.25 7.16029L1.348 12.0623C1.22286 12.1874 1.05743 1"
+        },
+        {
+          "text": "Help me find the right work boot for my job.",
+          "ariaLabel": null,
+          "html": "<button type=\"button\" class=\"suggestion-chip\" data-query=\"Help me find the right work boot for my job.\">\n                            <span class=\"chip-text\">Help me find the right work boot for my job.</span> \n                            <span class=\"chip-arrow\" aria-hidden=\"true\"><img src=\"/on/demandware.static/Sites-wolverine_us-Site/-/default/dw2de183b8/images/ai-card-arrow.svg\" alt=\"\" aria-hidden=\"true\"></span>\n                        </button>"
+        },
+        {
+          "text": "Should I choose soft toe, composite toe, or steel toe boots?",
+          "ariaLabel": null,
+          "html": "<button type=\"button\" class=\"suggestion-chip\" data-query=\"Should I choose soft toe, composite toe, or steel toe boots?\">\n                            <span class=\"chip-text\">Should I choose soft toe, composite toe, or steel toe boots?</span> \n                            <span class=\"chip-arrow\" aria-hidden=\"true\"><img src=\"/on/demandware.static/Sites-wolverine_us-Site/-/default/dw2de183b8/images/ai-card-arrow.svg\" alt=\"\" aria-hidden=\"true\"></span>\n                        </button>"
+        },
+        {
+          "text": "What's the difference between Loader, Infinity, and Trade Wedge?",
+          "ariaLabel": null,
+          "html": "<button type=\"button\" class=\"suggestion-chip\" data-query=\"What's the difference between Loader, Infinity, and Trade Wedge?\">\n                            <span class=\"chip-text\">What's the difference between Loader, Infinity, and Trade Wedge?</span> \n                            <span class=\"chip-arrow\" aria-hidden=\"true\"><img src=\"/on/demandware.static/Sites-wolverine_us-Site/-/default/dw2de183b8/images/ai-card-arrow.svg\" alt=\"\" aria-hidden=\"true\"></span>\n                        </button>"
+        },
+        {
+          "text": "What's trending in durable footwear?",
+          "ariaLabel": null,
+          "html": "<button type=\"button\" class=\"suggestion-chip\" data-query=\"What's trending in durable footwear?\">\n                            <span class=\"chip-text\">What's trending in durable footwear?</span> \n                            <span class=\"chip-arrow\" aria-hidden=\"true\"><img src=\"/on/demandware.static/Sites-wolverine_us-Site/-/default/dw2de183b8/images/ai-card-arrow.svg\" alt=\"\" aria-hidden=\"true\"></span>\n                        </button>"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Scroll to latest messages",
+          "html": "<button type=\"button\" class=\"chat-scroll-to-bottom-btn\" aria-label=\"Scroll to latest messages\" aria-hidden=\"true\">\n                <span aria-hidden=\"true\"></span>\n            </button>"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Wolverine AI Submit",
+          "html": "<button id=\"chat-submit-action-btn\" class=\"chat-submit-action-btn\" type=\"button\" aria-label=\"Wolverine AI Submit\">\n                        <img src=\"/on/demandware.static/Sites-wolverine_us-Site/-/default/dw4f97fe5b/images/ai-card-up-arrow-solid.svg\" alt=\"\" aria-hidden=\"true\">\n                    </button>"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Press enter to search",
+          "html": "<button type=\"submit\" class=\"submit-btn\" aria-label=\"Press enter to search\"> \n       \n        <svg class=\"search-icon\" fill=\"#000000\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 30 30\" width=\"20px\" height=\"19px\"><path d=\"M 13 3 C 7.4889971 3 3 7.4889971 3 13 C 3 18.511003 7.4889971 23 13 23 C 15.396508 23 17.597385 22.148986 19.322266 20.736328 L 25.292969 26.707031 A 1.0001 1.0001 0 1 0 26.707031 25.292969 L 20.736328 19.322266 C 22.148986 17.597385 23 15.396508 23 13 C 23 7.4889971 18.511003 3 13 3 z M 13 5 C 17.430123 5 21 8.5698774 21 13 C 21 17.430123 17.430123 21 13 21 C 8.5698774 21 5 17.430123 5 13 C 5 8.5698774 8.5698774 5 13 5 z"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Close",
+          "html": "<button type=\"button\" class=\"MiniCart__HeaderActions--close\" aria-label=\"Close\"><span class=\"icon-close\" aria-hidden=\"true\"></span></button>"
+        },
+        {
+          "text": "View Cart & Checkout",
+          "ariaLabel": null,
+          "html": "<button type=\"submit\" class=\"mini-cart-link-checkout cta-primary\">View Cart &amp; Checkout</button>"
+        },
+        {
+          "text": "Top Gifts",
+          "ariaLabel": null,
+          "html": "<button class=\"tab-button\" data-category=\"men-shop-by-best-sellers\" data-active=\"true\">\n                Top Gifts\n              </button>"
+        },
+        {
+          "text": "New Arrivals",
+          "ariaLabel": null,
+          "html": "<button class=\"tab-button\" data-category=\"men-shop-by-new-arrivals\">\n                New Arrivals\n              </button>"
+        },
+        {
+          "text": "Workwear",
+          "ariaLabel": null,
+          "html": "<button class=\"tab-button\" data-category=\"accessories-clothing\">\n                Workwear\n              </button>"
+        },
+        {
+          "text": "",
+          "ariaLabel": null,
+          "html": "<button class=\"embla__dot embla__dot--selected\" type=\"button\"></button>"
+        },
+        {
+          "text": "",
+          "ariaLabel": null,
+          "html": "<button class=\"embla__dot\" type=\"button\"></button>"
+        },
+        {
+          "text": "",
+          "ariaLabel": null,
+          "html": "<button class=\"embla__dot\" type=\"button\"></button>"
+        },
+        {
+          "text": "",
+          "ariaLabel": null,
+          "html": "<button class=\"embla__dot\" type=\"button\"></button>"
+        },
+        {
+          "text": "",
+          "ariaLabel": null,
+          "html": "<button class=\"embla__dot\" type=\"button\"></button>"
+        },
+        {
+          "text": "",
+          "ariaLabel": null,
+          "html": "<button class=\"embla__dot\" type=\"button\"></button>"
+        },
+        {
+          "text": "",
+          "ariaLabel": null,
+          "html": "<button class=\"embla__dot\" type=\"button\"></button>"
+        },
+        {
+          "text": "",
+          "ariaLabel": null,
+          "html": "<button class=\"embla__button embla__button--prev category-carousel-prev\" type=\"button\" disabled=\"\">\n                <svg width=\"38\" height=\"38\" viewBox=\"0 0 38 38\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"18.75\" cy=\"18.75\" r=\"18.75\" fill=\"white\" fill-opacity=\"0.6\"></circle>\n<path d=\"M16.6139 11.5L22.75 19L16.6139 26.5\" stroke=\"#424242\" stroke-width=\"1.875\"></path>\n</svg>\n\n              </button>"
+        },
+        {
+          "text": "",
+          "ariaLabel": null,
+          "html": "<button class=\"embla__button embla__button--next category-carousel-next\" type=\"button\">\n                <svg width=\"38\" height=\"38\" viewBox=\"0 0 38 38\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"18.75\" cy=\"18.75\" r=\"18.75\" fill=\"white\" fill-opacity=\"0.6\"></circle>\n<path d=\"M16.6139 11.5L22.75 19L16.6139 26.5\" stroke=\"#424242\" stroke-width=\"1.875\"></path>\n</svg>\n\n              </button>"
+        },
+        {
+          "text": "",
+          "ariaLabel": null,
+          "html": "<button class=\"embla__dot embla__dot--selected\" type=\"button\"></button>"
+        }
+      ],
+      "counts": {
+        "buttons": 75,
+        "links": 409,
+        "landmarks": 1
+      },
+      "contentSample": "___\nSkip to content\n1000 Mile\nBates by Wolverine\nFree Standard Shipping on Orders $75+ for Wolverine Members\nSIGN UP NOW\nFree Standard Shipping on Orders $99 or More\nShop Our Best Deals Here\nSHOP NOW\nSHOP AI\nBETA\nSHOP AI - AI Assistant Beta\nChat is powered by AI. We may store chat history to improve results. Avoid sharing personal or sensitive information. See Privacy Policy.\nHELP\n3\nGIFT GUIDE\nCOLLECTIONS\nWORK\nWORKWEAR\nWESTERN\n1000 MILE\nHOLIDAY OFFERS\nWolverine\nPUT WOLVERINE IN THE BOX THIS CHRISTMAS\n\nDon't just give any gift. Give the kind of relentlessness that can't be contained. Give sharpness that can't be dulled. Give toughness that can't be tamed.\n\nSHOP 12 CRATES\nSHOP $85 BOOTS\nQUICK LINKS\nSAFETY TOE\nSOFT TOE\nMOC TOE\nWELLINGTON\nROMEO\nTABBED CAROUSEL\nTOP GIFTS\nNEW ARRIVALS\nWORKWEAR\n\n3 Colors\n\nAlpha ft Wolverine Infinity System 6\" CarbonMax® Work Boot\n\n$194.95\n\nSHOP NOW\n\n2 Colors\n\nA"
+    },
+    "tabSequence": [
+      {
+        "tag": "IFRAME",
+        "id": "unwrap-survey-widget-iframe",
+        "text": "",
+        "label": null,
+        "href": null
+      },
+      {
+        "tag": "IFRAME",
+        "id": "unwrap-survey-widget-iframe",
+        "text": "",
+        "label": null,
+        "href": null
+      },
+      {
+        "tag": "BODY",
+        "id": "",
+        "text": "___ <iframe src=\"https://gtm.wolverine.com/ns.html?id=GTM-K6KDWWH\" height=\"",
+        "label": null,
+        "href": null
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Skip to content",
+        "label": null,
+        "href": "#main"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "1000 Mile",
+        "label": null,
+        "href": "https://www.wolverine.com/US/en/lifestyle/"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Bates by Wolverine",
+        "label": null,
+        "href": "https://www.wolverine.com/US/en/bates-by-wolverine/"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Free Standard Shipping on Orders $75+ for Wolverine Members\n    SIGN UP NOW",
+        "label": null,
+        "href": "https://www.wolverine.com/US/en/membership/"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Free Standard Shipping on Orders $99 or More",
+        "label": null,
+        "href": "https://www.wolverine.com/US/en/returns"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Shop Our Best Deals Here\n    SHOP NOW",
+        "label": null,
+        "href": "https://www.wolverine.com/US/en/promotions-coupons/"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "SHOP AI\n\n\n\n\n\n\nbeta\nSHOP AI - AI Assistant Beta",
+        "label": "SHOP AI - AI Assistant Beta",
+        "href": null
+      }
+    ],
+    "violations": [
+      {
+        "id": "aria-hidden-focus",
+        "impact": "serious",
+        "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+        "help": "ARIA hidden element must not be focusable or contain focusable elements",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/aria-hidden-focus?application=axeAPI",
+        "tags": [
+          "cat.name-role-value",
+          "wcag2a",
+          "wcag412",
+          "TTv5",
+          "TT6.a",
+          "EN-301-549",
+          "EN-9.4.1.2"
+        ],
+        "nodeCount": 1,
+        "nodes": [
+          {
+            "html": "<div class=\"chat-viewport chat-main-viewport desktop-viewport-mode\" aria-hidden=\"true\" role=\"dialog\" aria-modal=\"true\" aria-label=\"Shop with Wolverine AI\">",
+            "target": [
+              ".desktop-viewport-mode"
+            ],
+            "failureSummary": "Fix all of the following:\n  Focusable content should have tabindex=\"-1\" or be removed from the DOM"
+          }
+        ]
+      },
+      {
+        "id": "button-name",
+        "impact": "critical",
+        "description": "Ensure buttons have discernible text",
+        "help": "Buttons must have discernible text",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/button-name?application=axeAPI",
+        "tags": [
+          "cat.name-role-value",
+          "wcag2a",
+          "wcag412",
+          "section508",
+          "section508.22.a",
+          "TTv5",
+          "TT6.a",
+          "EN-301-549",
+          "EN-9.4.1.2",
+          "ACT"
+        ],
+        "nodeCount": 29,
+        "nodes": [
+          {
+            "html": "<button class=\"embla__dot embla__dot--selected\" type=\"button\"></button>",
+            "target": [
+              ".category-carousel[data-category=\"men-shop-by-best-sellers\"][data-active=\"true\"] > .category-carousel-controls.embla-controls > .embla-dots.category-carousel-dots > .embla__dot--selected.embla__dot[type=\"button\"]"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element does not have inner text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element does not have an implicit (wrapped) <label>\n  Element does not have an explicit <label>\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          },
+          {
+            "html": "<button class=\"embla__dot\" type=\"button\"></button>",
+            "target": [
+              ".category-carousel[data-category=\"men-shop-by-best-sellers\"][data-active=\"true\"] > .category-carousel-controls.embla-controls > .embla-dots.category-carousel-dots > .embla__dot[type=\"button\"]:nth-child(2)"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element does not have inner text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element does not have an implicit (wrapped) <label>\n  Element does not have an explicit <label>\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          },
+          {
+            "html": "<button class=\"embla__dot\" type=\"button\"></button>",
+            "target": [
+              ".category-carousel[data-category=\"men-shop-by-best-sellers\"][data-active=\"true\"] > .category-carousel-controls.embla-controls > .embla-dots.category-carousel-dots > .embla__dot[type=\"button\"]:nth-child(3)"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element does not have inner text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element does not have an implicit (wrapped) <label>\n  Element does not have an explicit <label>\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          },
+          {
+            "html": "<button class=\"embla__dot\" type=\"button\"></button>",
+            "target": [
+              ".category-carousel[data-category=\"men-shop-by-best-sellers\"][data-active=\"true\"] > .category-carousel-controls.embla-controls > .embla-dots.category-carousel-dots > .embla__dot[type=\"button\"]:nth-child(4)"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element does not have inner text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element does not have an implicit (wrapped) <label>\n  Element does not have an explicit <label>\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          },
+          {
+            "html": "<button class=\"embla__dot\" type=\"button\"></button>",
+            "target": [
+              ".category-carousel[data-category=\"men-shop-by-best-sellers\"][data-active=\"true\"] > .category-carousel-controls.embla-controls > .embla-dots.category-carousel-dots > .embla__dot[type=\"button\"]:nth-child(5)"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element does not have inner text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element does not have an implicit (wrapped) <label>\n  Element does not have an explicit <label>\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          },
+          {
+            "html": "<button class=\"embla__dot\" type=\"button\"></button>",
+            "target": [
+              ".category-carousel[data-category=\"men-shop-by-best-sellers\"][data-active=\"true\"] > .category-carousel-controls.embla-controls > .embla-dots.category-carousel-dots > .embla__dot[type=\"button\"]:nth-child(6)"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element does not have inner text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element does not have an implicit (wrapped) <label>\n  Element does not have an explicit <label>\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          },
+          {
+            "html": "<button class=\"embla__dot\" type=\"button\"></button>",
+            "target": [
+              ".category-carousel[data-category=\"men-shop-by-best-sellers\"][data-active=\"true\"] > .category-carousel-controls.embla-controls > .embla-dots.category-carousel-dots > .embla__dot[type=\"button\"]:nth-child(7)"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element does not have inner text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element does not have an implicit (wrapped) <label>\n  Element does not have an explicit <label>\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          },
+          {
+            "html": "<button class=\"embla__button embla__button--prev category-carousel-prev\" type=\"button\" disabled=\"\">",
+            "target": [
+              ".category-carousel[data-category=\"men-shop-by-best-sellers\"][data-active=\"true\"] > .category-carousel-controls.embla-controls > .embla-buttons.lg-only > .embla__button--prev.category-carousel-prev.embla__button"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element does not have inner text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element does not have an implicit (wrapped) <label>\n  Element does not have an explicit <label>\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        ]
+      },
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143",
+          "TTv5",
+          "TT13.c",
+          "EN-301-549",
+          "EN-9.1.4.3",
+          "ACT"
+        ],
+        "nodeCount": 35,
+        "nodes": [
+          {
+            "html": "<li tabindex=\"0\">\n866-699-7369\n</li>",
+            "target": [
+              ".footer-item-wide.footer-item[data-ds=\"false\"]:nth-child(1) > ul > li:nth-child(1)"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.61 (foreground color: #737d85, background color: #eeeeee, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "html": "<a href=\"https://www.wolverine.com/US/en/findorder\">Track Orders</a>",
+            "target": [
+              ".footer-item-wide.footer-item[data-ds=\"false\"]:nth-child(1) > ul > li:nth-child(2) > a"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.61 (foreground color: #737d85, background color: #eeeeee, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "html": "<a href=\"/US/en/content?caid=cs-help\">Contact Us</a>",
+            "target": [
+              ".footer-item-wide.footer-item[data-ds=\"false\"]:nth-child(1) > ul > li:nth-child(3) > a[href=\"/US/en/content?caid=cs-help\"]"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.61 (foreground color: #737d85, background color: #eeeeee, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "html": "<a href=\"/US/en/content?caid=cs-shipping-info\">Shipping</a>",
+            "target": [
+              ".footer-item-wide.footer-item[data-ds=\"false\"]:nth-child(1) > ul > li:nth-child(4) > a"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.61 (foreground color: #737d85, background color: #eeeeee, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "html": "<a href=\"/US/en/returns\">Returns &amp; Exchanges</a>",
+            "target": [
+              "li:nth-child(5) > a[href$=\"returns\"]"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.61 (foreground color: #737d85, background color: #eeeeee, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "html": "<a href=\"/US/en/limited-warranty/\">Limited Warranty</a>",
+            "target": [
+              "a[href$=\"limited-warranty/\"]"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.61 (foreground color: #737d85, background color: #eeeeee, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "html": "<a href=\"/US/en/content?caid=faqs\">FAQ</a>",
+            "target": [
+              "a[href=\"/US/en/content?caid=faqs\"]"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.61 (foreground color: #737d85, background color: #eeeeee, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "html": "<a href=\"https://www.wolverine.com/US/en/emailpreferences?unsubscribe=true\">Email Preferences</a>",
+            "target": [
+              ".footer-item-wide.footer-item[data-ds=\"false\"]:nth-child(1) > ul > li:nth-child(8) > a"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.61 (foreground color: #737d85, background color: #eeeeee, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1"
+          }
+        ]
+      },
+      {
+        "id": "link-in-text-block",
+        "impact": "serious",
+        "description": "Ensure links are distinguished from surrounding text in a way that does not rely on color",
+        "help": "Links must be distinguishable without relying on color",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/link-in-text-block?application=axeAPI",
+        "tags": [
+          "cat.color",
+          "wcag2a",
+          "wcag141",
+          "TTv5",
+          "TT13.a",
+          "EN-301-549",
+          "EN-9.1.4.1"
+        ],
+        "nodeCount": 2,
+        "nodes": [
+          {
+            "html": "<a href=\"https://policies.google.com/privacy\" target=\"_blank\" rel=\"noopener\">Privacy Policy</a>",
+            "target": [
+              "a[rel=\"noopener\"][target=\"_blank\"]:nth-child(1)"
+            ],
+            "failureSummary": "Fix any of the following:\n  The link has insufficient color contrast of 2.78:1 with the surrounding text. (Minimum contrast is 3:1, link text: #a41e21, surrounding text: #000000)\n  The link has no styling (such as underline) to distinguish it from the surrounding text"
+          },
+          {
+            "html": "<a href=\"https://policies.google.com/terms\" target=\"_blank\" rel=\"noopener\">Terms of Service</a>",
+            "target": [
+              "#footer-subscribe-form > .recaptcha-statement > a[rel=\"noopener\"][target=\"_blank\"]:nth-child(2)"
+            ],
+            "failureSummary": "Fix any of the following:\n  The link has insufficient color contrast of 2.78:1 with the surrounding text. (Minimum contrast is 3:1, link text: #a41e21, surrounding text: #000000)\n  The link has no styling (such as underline) to distinguish it from the surrounding text"
+          }
+        ]
+      },
+      {
+        "id": "link-name",
+        "impact": "serious",
+        "description": "Ensure links have discernible text",
+        "help": "Links must have discernible text",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/link-name?application=axeAPI",
+        "tags": [
+          "cat.name-role-value",
+          "wcag2a",
+          "wcag244",
+          "wcag412",
+          "section508",
+          "section508.22.a",
+          "TTv5",
+          "TT6.a",
+          "EN-301-549",
+          "EN-9.2.4.4",
+          "EN-9.4.1.2",
+          "ACT"
+        ],
+        "nodeCount": 4,
+        "nodes": [
+          {
+            "html": "<a class=\"lp-cta-button\" href=\"https://www.wolverine.com/US/en/mens-footwear/\">\n                    <span class=\"link-liner\">\n                      Shop Work\n                    </span>\n                  </a>",
+            "target": [
+              ".utility-work > .lp-overlay > .lp-actions > .lp-cta-button"
+            ],
+            "failureSummary": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          },
+          {
+            "html": "<a class=\"lp-cta-button\" href=\"https://www.wolverine.com/US/en/western/\">\n                    <span class=\"link-liner\">\n                      Shop Western\n                    </span>\n                  </a>",
+            "target": [
+              ".utility-western > .lp-overlay > .lp-actions > .lp-cta-button"
+            ],
+            "failureSummary": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          },
+          {
+            "html": "<a class=\"lp-cta-button\" href=\"https://www.wolverine.com/US/en/heritage-view-all/\">\n                    <span class=\"link-liner\">\n                      Shop Lifestyle\n                    </span>\n                  </a>",
+            "target": [
+              ".utility-lifestyle > .lp-overlay > .lp-actions > .lp-cta-button"
+            ],
+            "failureSummary": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          },
+          {
+            "html": "<a href=\"https://www.wolverine.com/US/en/home?utm_term=signup\">",
+            "target": [
+              ".cta-container > a"
+            ],
+            "failureSummary": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        ]
+      },
+      {
+        "id": "target-size",
+        "impact": "serious",
+        "description": "Ensure touch targets have sufficient size and space",
+        "help": "All touch targets must be 24px large, or leave sufficient space",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/target-size?application=axeAPI",
+        "tags": [
+          "cat.sensory-and-visual-cues",
+          "wcag22aa",
+          "wcag258"
+        ],
+        "nodeCount": 4,
+        "nodes": [
+          {
+            "html": "<a href=\"https://www.wolverine.com/US/en/sitemap\">Site Map</a>",
+            "target": [
+              "div[data-content-asset=\"footer-privacy-policy\"] > ul > li:nth-child(1) > a"
+            ],
+            "failureSummary": "Fix any of the following:\n  Target has insufficient size (45.9px by 16px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 20px instead of at least 24px."
+          },
+          {
+            "html": "<a href=\"https://www.wolverine.com/US/en/content?caid=accessibility-policy\">Accessibility Policy</a>",
+            "target": [
+              "div[data-content-asset=\"footer-privacy-policy\"] > ul > li:nth-child(2) > a"
+            ],
+            "failureSummary": "Fix any of the following:\n  Target has insufficient size (101px by 16px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 20px instead of at least 24px."
+          },
+          {
+            "html": "<a href=\"https://www.wolverine.com/US/en/content?caid=privacy-policy\">Privacy Policy</a>",
+            "target": [
+              "div[data-content-asset=\"footer-privacy-policy\"] > ul > li:nth-child(3) > a"
+            ],
+            "failureSummary": "Fix any of the following:\n  Target has insufficient size (74.5px by 16px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 20px instead of at least 24px."
+          },
+          {
+            "html": "<a href=\"https://www.wolverine.com/US/en/content?caid=ca-supply-chain-transparency\">Anti-Human Trafficking and Transparency in Supply Chain Statement</a>",
+            "target": [
+              "div[data-content-asset=\"footer-privacy-policy\"] > ul > li:nth-child(6) > a"
+            ],
+            "failureSummary": "Fix any of the following:\n  Target has insufficient size (363.4px by 16px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 20px instead of at least 24px."
+          }
+        ]
+      }
+    ],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodeCount": 90
+      },
+      {
+        "id": "duplicate-id-aria",
+        "nodeCount": 1
+      },
+      {
+        "id": "target-size",
+        "nodeCount": 1
+      },
+      {
+        "id": "video-caption",
+        "nodeCount": 1
+      }
+    ],
+    "passes": [
+      "aria-allowed-attr",
+      "aria-conditional-attr",
+      "aria-deprecated-role",
+      "aria-hidden-body",
+      "aria-hidden-focus",
+      "aria-prohibited-attr",
+      "aria-required-attr",
+      "aria-roles",
+      "aria-valid-attr-value",
+      "aria-valid-attr",
+      "autocomplete-valid",
+      "avoid-inline-spacing",
+      "button-name",
+      "bypass",
+      "color-contrast",
+      "document-title",
+      "duplicate-id-aria",
+      "form-field-multiple-labels",
+      "html-has-lang",
+      "html-lang-valid",
+      "image-alt",
+      "label",
+      "link-name",
+      "list",
+      "listitem",
+      "meta-viewport",
+      "nested-interactive",
+      "target-size"
+    ],
+    "axControlsWithoutName": [
+      {
+        "role": "button",
+        "name": "",
+        "properties": [
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          },
+          {
+            "name": "focusable",
+            "value": {
+              "type": "booleanOrUndefined",
+              "value": true
+            }
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "",
+        "properties": [
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          },
+          {
+            "name": "focusable",
+            "value": {
+              "type": "booleanOrUndefined",
+              "value": true
+            }
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "",
+        "properties": [
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          },
+          {
+            "name": "focusable",
+            "value": {
+              "type": "booleanOrUndefined",
+              "value": true
+            }
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "",
+        "properties": [
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          },
+          {
+            "name": "focusable",
+            "value": {
+              "type": "booleanOrUndefined",
+              "value": true
+            }
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "",
+        "properties": [
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          },
+          {
+            "name": "focusable",
+            "value": {
+              "type": "booleanOrUndefined",
+              "value": true
+            }
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "",
+        "properties": [
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          },
+          {
+            "name": "focusable",
+            "value": {
+              "type": "booleanOrUndefined",
+              "value": true
+            }
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "",
+        "properties": [
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          },
+          {
+            "name": "focusable",
+            "value": {
+              "type": "booleanOrUndefined",
+              "value": true
+            }
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "",
+        "properties": [
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          },
+          {
+            "name": "focusable",
+            "value": {
+              "type": "booleanOrUndefined",
+              "value": true
+            }
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "",
+        "properties": [
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          },
+          {
+            "name": "focusable",
+            "value": {
+              "type": "booleanOrUndefined",
+              "value": true
+            }
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "",
+        "properties": [
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          },
+          {
+            "name": "focusable",
+            "value": {
+              "type": "booleanOrUndefined",
+              "value": true
+            }
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "",
+        "properties": [
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          },
+          {
+            "name": "focusable",
+            "value": {
+              "type": "booleanOrUndefined",
+              "value": true
+            }
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "",
+        "properties": [
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          },
+          {
+            "name": "focusable",
+            "value": {
+              "type": "booleanOrUndefined",
+              "value": true
+            }
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "",
+        "properties": [
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          },
+          {
+            "name": "focusable",
+            "value": {
+              "type": "booleanOrUndefined",
+              "value": true
+            }
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "",
+        "properties": [
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          },
+          {
+            "name": "focusable",
+            "value": {
+              "type": "booleanOrUndefined",
+              "value": true
+            }
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "",
+        "properties": [
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          },
+          {
+            "name": "focusable",
+            "value": {
+              "type": "booleanOrUndefined",
+              "value": true
+            }
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "",
+        "properties": [
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          },
+          {
+            "name": "focusable",
+            "value": {
+              "type": "booleanOrUndefined",
+              "value": true
+            }
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "",
+        "properties": [
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          },
+          {
+            "name": "focusable",
+            "value": {
+              "type": "booleanOrUndefined",
+              "value": true
+            }
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "",
+        "properties": [
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          },
+          {
+            "name": "focusable",
+            "value": {
+              "type": "booleanOrUndefined",
+              "value": true
+            }
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "",
+        "properties": [
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          },
+          {
+            "name": "focusable",
+            "value": {
+              "type": "booleanOrUndefined",
+              "value": true
+            }
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "",
+        "properties": [
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          },
+          {
+            "name": "focusable",
+            "value": {
+              "type": "booleanOrUndefined",
+              "value": true
+            }
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "",
+        "properties": [
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          },
+          {
+            "name": "focusable",
+            "value": {
+              "type": "booleanOrUndefined",
+              "value": true
+            }
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "",
+        "properties": [
+          {
+            "name": "disabled",
+            "value": {
+              "type": "boolean",
+              "value": true
+            }
+          },
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "",
+        "properties": [
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          },
+          {
+            "name": "focusable",
+            "value": {
+              "type": "booleanOrUndefined",
+              "value": true
+            }
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "",
+        "properties": [
+          {
+            "name": "disabled",
+            "value": {
+              "type": "boolean",
+              "value": true
+            }
+          },
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "",
+        "properties": [
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          },
+          {
+            "name": "focusable",
+            "value": {
+              "type": "booleanOrUndefined",
+              "value": true
+            }
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "",
+        "properties": [
+          {
+            "name": "disabled",
+            "value": {
+              "type": "boolean",
+              "value": true
+            }
+          },
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "",
+        "properties": [
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          },
+          {
+            "name": "focusable",
+            "value": {
+              "type": "booleanOrUndefined",
+              "value": true
+            }
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "",
+        "properties": [
+          {
+            "name": "disabled",
+            "value": {
+              "type": "boolean",
+              "value": true
+            }
+          },
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "",
+        "properties": [
+          {
+            "name": "invalid",
+            "value": {
+              "type": "token",
+              "value": "false"
+            }
+          },
+          {
+            "name": "focusable",
+            "value": {
+              "type": "booleanOrUndefined",
+              "value": true
+            }
+          }
+        ]
+      }
+    ],
+    "sourceCharacters": 570312,
+    "sourceBytesUtf8": 565168
+  },
+  {
+    "site": "wolverine",
+    "kind": "product",
+    "urlRequested": "https://www.wolverine.com/US/en/alpha-ft-wolverine-infinity-system-6-inch-carbonmax-work-boot/60775M.html",
+    "url": "https://www.wolverine.com/US/en/alpha-ft-wolverine-infinity-system-6-inch-carbonmax-work-boot/60775M.html",
+    "collectedAt": "2026-11-09T01:58:38.306Z",
+    "httpStatus": 200,
+    "sourceSha256": "c2b40f366557e09bc46746498d65fdbcbd2ec53c069e4c33308df9af348c6996",
+    "browserVersion": "151.0.7922.34",
+    "axeVersion": "4.10.3",
+    "viewport": "1440x1000",
+    "dom": {
+      "title": "Men - Alpha ft Wolverine Infinity System 6\" CarbonMax® Work Boot - 6\" Boots | Wolverine",
+      "lang": "en-us",
+      "h1": [
+        "Men's Alpha ft Wolverine Infinity System 6\" CarbonMax® Work Boot"
+      ],
+      "metas": [
+        {
+          "name": "robots",
+          "content": "index, follow"
+        },
+        {
+          "name": "description",
+          "content": "Powered by DuraShocks® and EnergyBound™, the Wolverine Infinity System™ combines years of expertise into a multi-layered design that boosts comfort and per"
+        }
+      ],
+      "canonical": "https://www.wolverine.com/US/en/alpha-ft-wolverine-infinity-system-6-inch-carbonmax-work-boot/60775M.html",
+      "images": {
+        "total": 124,
+        "withoutAlt": 4,
+        "emptyAlt": 19
+      },
+      "jsonld": [
+        {
+          "@context": "https://schema.org/",
+          "@type": "WebPage",
+          "url": "https://www.wolverine.com/on/demandware.store/Sites-wolverine_us-Site/default/Product-Show?pid=60775M",
+          "name": "Men - Alpha ft Wolverine Infinity System 6\" CarbonMax® Work Boot - 6\" Boots | Wolverine",
+          "description": "Powered by DuraShocks® and EnergyBound™, the Wolverine Infinity System™ combines years of expertise into a multi-layered design that boosts comfort and per"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Wolverine World Wide, Inc.",
+          "url": "https://www.wolverineworldwide.com/",
+          "logo": "https://www.wolverineworldwide.com/wp-content/themes/wolverine-site-1.1.3-2/images/wolverine-logo.png",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "customer service"
+          },
+          "sameAs": [
+            "https://www.facebook.com/WolverineWorldWide/",
+            "https://twitter.com/wolverineww",
+            "https://www.instagram.com/wolverineworldwide/",
+            "https://www.linkedin.com/company/wolverineworldwide/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "9341 Courtland Dr NE",
+            "addressLocality": "Rockford",
+            "addressRegion": "MI",
+            "postalCode": "49351",
+            "addressCountry": "US"
+          },
+          "telephone": "+1-616-866-5500",
+          "email": "wwwcommunications@wwwinc.com"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "SHOP AI\n\n\n\n\n\n\nbeta\nSHOP AI - AI Assistant Beta",
+          "ariaLabel": "SHOP AI - AI Assistant Beta",
+          "html": "<button type=\"button\" class=\"chat-header-navigation-link chat-widget-open-btn\" aria-label=\"SHOP AI - AI Assistant Beta\" title=\"SHOP AI\" aria-haspopup=\"dialog\" aria-expanded=\"false\">\n<span class=\"ai-pill-button\">\n<div class=\"nav-label-text\">\nSHOP AI\n<span class=\"ai-header-icon-wrap\" aria-hidden=\"true\">\n<img src=\"/on/demandware.static/Sites-wolverine_us-Site/-/default/dwd118351d/images/ai-icon.svg\" class=\"ai-sparkle-animated-svg\" alt=\"\" width=\"14\" height=\"14\">\n</span>\n</div>\n</span>\n<span class=\"nav-beta-tag\" aria-hidden=\"true\">\nbeta</span>\n<span class=\"visually-hidden\">SHOP AI - AI Assistant Beta</span>\n</button>"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Wolverine AI Close",
+          "html": "<button type=\"button\" class=\"close-viewport-btn chat-drawer-close-btn\" aria-label=\"Wolverine AI Close\">\n                <svg width=\"13\" height=\"13\" viewBox=\"0 0 13 13\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.25 5.34057L11.152 0.437714C11.2771 0.312571 11.4426 0.25 11.6071 0.25C11.9534 0.25 12.25 0.527714 12.25 0.892C12.25 1.05743 12.1874 1.222 12.0623 1.348L7.15943 6.25L12.0614 11.152C12.1874 11.278 12.25 11.4426 12.25 11.6071C12.25 11.9731 11.9509 12.25 11.6071 12.25C11.4426 12.25 11.2771 12.1874 11.152 12.0623L6.25 7.16029L1.348 12.0623C1.22286 12.1874 1.05743 1"
+        },
+        {
+          "text": "Help me find the right work boot for my job.",
+          "ariaLabel": null,
+          "html": "<button type=\"button\" class=\"suggestion-chip\" data-query=\"Help me find the right work boot for my job.\">\n                            <span class=\"chip-text\">Help me find the right work boot for my job.</span> \n                            <span class=\"chip-arrow\" aria-hidden=\"true\"><img src=\"/on/demandware.static/Sites-wolverine_us-Site/-/default/dw2de183b8/images/ai-card-arrow.svg\" alt=\"\" aria-hidden=\"true\"></span>\n                        </button>"
+        },
+        {
+          "text": "Should I choose soft toe, composite toe, or steel toe boots?",
+          "ariaLabel": null,
+          "html": "<button type=\"button\" class=\"suggestion-chip\" data-query=\"Should I choose soft toe, composite toe, or steel toe boots?\">\n                            <span class=\"chip-text\">Should I choose soft toe, composite toe, or steel toe boots?</span> \n                            <span class=\"chip-arrow\" aria-hidden=\"true\"><img src=\"/on/demandware.static/Sites-wolverine_us-Site/-/default/dw2de183b8/images/ai-card-arrow.svg\" alt=\"\" aria-hidden=\"true\"></span>\n                        </button>"
+        },
+        {
+          "text": "What's the difference between Loader, Infinity, and Trade Wedge?",
+          "ariaLabel": null,
+          "html": "<button type=\"button\" class=\"suggestion-chip\" data-query=\"What's the difference between Loader, Infinity, and Trade Wedge?\">\n                            <span class=\"chip-text\">What's the difference between Loader, Infinity, and Trade Wedge?</span> \n                            <span class=\"chip-arrow\" aria-hidden=\"true\"><img src=\"/on/demandware.static/Sites-wolverine_us-Site/-/default/dw2de183b8/images/ai-card-arrow.svg\" alt=\"\" aria-hidden=\"true\"></span>\n                        </button>"
+        },
+        {
+          "text": "What's trending in durable footwear?",
+          "ariaLabel": null,
+          "html": "<button type=\"button\" class=\"suggestion-chip\" data-query=\"What's trending in durable footwear?\">\n                            <span class=\"chip-text\">What's trending in durable footwear?</span> \n                            <span class=\"chip-arrow\" aria-hidden=\"true\"><img src=\"/on/demandware.static/Sites-wolverine_us-Site/-/default/dw2de183b8/images/ai-card-arrow.svg\" alt=\"\" aria-hidden=\"true\"></span>\n                        </button>"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Scroll to latest messages",
+          "html": "<button type=\"button\" class=\"chat-scroll-to-bottom-btn\" aria-label=\"Scroll to latest messages\" aria-hidden=\"true\">\n                <span aria-hidden=\"true\"></span>\n            </button>"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Wolverine AI Submit",
+          "html": "<button id=\"chat-submit-action-btn\" class=\"chat-submit-action-btn\" type=\"button\" aria-label=\"Wolverine AI Submit\">\n                        <img src=\"/on/demandware.static/Sites-wolverine_us-Site/-/default/dw4f97fe5b/images/ai-card-up-arrow-solid.svg\" alt=\"\" aria-hidden=\"true\">\n                    </button>"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Press enter to search",
+          "html": "<button type=\"submit\" class=\"submit-btn\" aria-label=\"Press enter to search\"> \n       \n        <svg class=\"search-icon\" fill=\"#000000\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 30 30\" width=\"20px\" height=\"19px\"><path d=\"M 13 3 C 7.4889971 3 3 7.4889971 3 13 C 3 18.511003 7.4889971 23 13 23 C 15.396508 23 17.597385 22.148986 19.322266 20.736328 L 25.292969 26.707031 A 1.0001 1.0001 0 1 0 26.707031 25.292969 L 20.736328 19.322266 C 22.148986 17.597385 23 15.396508 23 13 C 23 7.4889971 18.511003 3 13 3 z M 13 5 C 17.430123 5 21 8.5698774 21 13 C 21 17.430123 17.430123 21 13 21 C 8.5698774 21 5 17.430123 5 13 C 5 8.5698774 8.5698774 5 13 5 z"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Close",
+          "html": "<button type=\"button\" class=\"MiniCart__HeaderActions--close\" aria-label=\"Close\"><span class=\"icon-close\" aria-hidden=\"true\"></span></button>"
+        },
+        {
+          "text": "View Cart & Checkout",
+          "ariaLabel": null,
+          "html": "<button type=\"submit\" class=\"mini-cart-link-checkout cta-primary\">View Cart &amp; Checkout</button>"
+        },
+        {
+          "text": "M",
+          "ariaLabel": null,
+          "html": "<button type=\"button\" class=\"chakra-button css-lfnw71\">M</button>"
+        },
+        {
+          "text": "EW",
+          "ariaLabel": null,
+          "html": "<button type=\"button\" class=\"chakra-button css-1babbg8\">EW</button>"
+        },
+        {
+          "text": "7",
+          "ariaLabel": null,
+          "html": "<button type=\"button\" class=\"chakra-button css-1r2jh61\">7</button>"
+        },
+        {
+          "text": "7.5",
+          "ariaLabel": null,
+          "html": "<button type=\"button\" class=\"chakra-button css-1r2jh61\">7.5</button>"
+        },
+        {
+          "text": "8",
+          "ariaLabel": null,
+          "html": "<button type=\"button\" class=\"chakra-button css-1r2jh61\">8</button>"
+        },
+        {
+          "text": "8.5",
+          "ariaLabel": null,
+          "html": "<button type=\"button\" class=\"chakra-button css-1r2jh61\">8.5</button>"
+        },
+        {
+          "text": "9",
+          "ariaLabel": null,
+          "html": "<button type=\"button\" class=\"chakra-button css-1r2jh61\">9</button>"
+        },
+        {
+          "text": "9.5",
+          "ariaLabel": null,
+          "html": "<button type=\"button\" class=\"chakra-button css-1r2jh61\">9.5</button>"
+        },
+        {
+          "text": "10",
+          "ariaLabel": null,
+          "html": "<button type=\"button\" class=\"chakra-button css-1r2jh61\">10</button>"
+        },
+        {
+          "text": "10.5",
+          "ariaLabel": null,
+          "html": "<button type=\"button\" class=\"chakra-button css-1r2jh61\">10.5</button>"
+        },
+        {
+          "text": "11",
+          "ariaLabel": null,
+          "html": "<button type=\"button\" class=\"chakra-button css-1r2jh61\">11</button>"
+        },
+        {
+          "text": "11.5",
+          "ariaLabel": null,
+          "html": "<button type=\"button\" class=\"chakra-button css-1r2jh61\">11.5</button>"
+        },
+        {
+          "text": "12",
+          "ariaLabel": null,
+          "html": "<button type=\"button\" class=\"chakra-button css-1r2jh61\">12</button>"
+        }
+      ],
+      "counts": {
+        "buttons": 89,
+        "links": 403,
+        "landmarks": 3
+      },
+      "contentSample": "___\nSkip to content\n1000 Mile\nBates by Wolverine\nFree Standard Shipping on Orders $75+ for Wolverine Members\nSIGN UP NOW\nFree Standard Shipping on Orders $99 or More\nShop Our Best Deals Here\nSHOP NOW\nSHOP AI\nBETA\nSHOP AI - AI Assistant Beta\nChat is powered by AI. We may store chat history to improve results. Avoid sharing personal or sensitive information. See Privacy Policy.\nHELP\n3\nGIFT GUIDE\nCOLLECTIONS\nWORK\nWORKWEAR\nWESTERN\n1000 MILE\nHOLIDAY OFFERS\nSEASON OF GRIT\n\nGifts Starting At $85\n\nSHOP NOW\n\n12 Crates Of Christmas\n\nUNLOCK DEALS\nHome  Infinity System Collection  Alpha ft Wolverine Infinity System 6\" CarbonMax® Work Boot\nMEN'S ALPHA FT WOLVERINE INFINITY SYSTEM 6\" CARBONMAX® WORK BOOT\n$194.95\n\n108 Reviews\n\nPowered by DuraShocks® and EnergyBound™, the Wolverine Infinity System™ combines years of expertise into a multi-layered design that boosts comfort and performance. The Alpha is "
+    },
+    "tabSequence": [
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Skip to content",
+        "label": null,
+        "href": "#main"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "1000 Mile",
+        "label": null,
+        "href": "https://www.wolverine.com/US/en/lifestyle/"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Bates by Wolverine",
+        "label": null,
+        "href": "https://www.wolverine.com/US/en/bates-by-wolverine/"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Free Standard Shipping on Orders $75+ for Wolverine Members\n    SIGN UP NOW",
+        "label": null,
+        "href": "https://www.wolverine.com/US/en/membership/"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Free Standard Shipping on Orders $99 or More",
+        "label": null,
+        "href": "https://www.wolverine.com/US/en/returns"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Shop Our Best Deals Here\n    SHOP NOW",
+        "label": null,
+        "href": "https://www.wolverine.com/US/en/promotions-coupons/"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "SHOP AI\n\n\n\n\n\n\nbeta\nSHOP AI - AI Assistant Beta",
+        "label": "SHOP AI - AI Assistant Beta",
+        "href": null
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Privacy Policy",
+        "label": null,
+        "href": "https://www.wolverine.com/US/en/content?caid=privacy-policy"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "ORDER STATUS\n            \n        \n    \n\n    \n    \n         \n            \n ",
+        "label": "HELP",
+        "href": "javascript:void(0)"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "ORDER STATUS",
+        "label": null,
+        "href": "https://www.wolverine.com/US/en/findorder"
+      }
+    ],
+    "violations": [
+      {
+        "id": "aria-hidden-focus",
+        "impact": "serious",
+        "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+        "help": "ARIA hidden element must not be focusable or contain focusable elements",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/aria-hidden-focus?application=axeAPI",
+        "tags": [
+          "cat.name-role-value",
+          "wcag2a",
+          "wcag412",
+          "TTv5",
+          "TT6.a",
+          "EN-301-549",
+          "EN-9.4.1.2"
+        ],
+        "nodeCount": 1,
+        "nodes": [
+          {
+            "html": "<div class=\"chat-viewport chat-main-viewport desktop-viewport-mode\" aria-hidden=\"true\" role=\"dialog\" aria-modal=\"true\" aria-label=\"Shop with Wolverine AI\">",
+            "target": [
+              ".desktop-viewport-mode"
+            ],
+            "failureSummary": "Fix all of the following:\n  Focusable content should have tabindex=\"-1\" or be removed from the DOM"
+          }
+        ]
+      },
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143",
+          "TTv5",
+          "TT13.c",
+          "EN-301-549",
+          "EN-9.1.4.3",
+          "ACT"
+        ],
+        "nodeCount": 35,
+        "nodes": [
+          {
+            "html": "<li tabindex=\"0\">\n866-699-7369\n</li>",
+            "target": [
+              ".footer-item-wide.footer-item[data-ds=\"false\"]:nth-child(1) > ul > li:nth-child(1)"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.61 (foreground color: #737d85, background color: #eeeeee, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "html": "<a href=\"https://www.wolverine.com/US/en/findorder\">Track Orders</a>",
+            "target": [
+              ".footer-item-wide.footer-item[data-ds=\"false\"]:nth-child(1) > ul > li:nth-child(2) > a"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.61 (foreground color: #737d85, background color: #eeeeee, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "html": "<a href=\"/US/en/content?caid=cs-help\">Contact Us</a>",
+            "target": [
+              ".footer-item-wide.footer-item[data-ds=\"false\"]:nth-child(1) > ul > li:nth-child(3) > a[href=\"/US/en/content?caid=cs-help\"]"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.61 (foreground color: #737d85, background color: #eeeeee, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "html": "<a href=\"/US/en/content?caid=cs-shipping-info\">Shipping</a>",
+            "target": [
+              ".footer-item-wide.footer-item[data-ds=\"false\"]:nth-child(1) > ul > li:nth-child(4) > a"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.61 (foreground color: #737d85, background color: #eeeeee, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "html": "<a href=\"/US/en/returns\">Returns &amp; Exchanges</a>",
+            "target": [
+              "li:nth-child(5) > a[href$=\"returns\"]"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.61 (foreground color: #737d85, background color: #eeeeee, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "html": "<a href=\"/US/en/limited-warranty/\">Limited Warranty</a>",
+            "target": [
+              "a[href$=\"limited-warranty/\"]"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.61 (foreground color: #737d85, background color: #eeeeee, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "html": "<a href=\"/US/en/content?caid=faqs\">FAQ</a>",
+            "target": [
+              "a[href=\"/US/en/content?caid=faqs\"]"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.61 (foreground color: #737d85, background color: #eeeeee, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "html": "<a href=\"https://www.wolverine.com/US/en/emailpreferences?unsubscribe=true\">Email Preferences</a>",
+            "target": [
+              ".footer-item-wide.footer-item[data-ds=\"false\"]:nth-child(1) > ul > li:nth-child(8) > a"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.61 (foreground color: #737d85, background color: #eeeeee, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1"
+          }
+        ]
+      },
+      {
+        "id": "link-name",
+        "impact": "serious",
+        "description": "Ensure links have discernible text",
+        "help": "Links must have discernible text",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/link-name?application=axeAPI",
+        "tags": [
+          "cat.name-role-value",
+          "wcag2a",
+          "wcag244",
+          "wcag412",
+          "section508",
+          "section508.22.a",
+          "TTv5",
+          "TT6.a",
+          "EN-301-549",
+          "EN-9.2.4.4",
+          "EN-9.4.1.2",
+          "ACT"
+        ],
+        "nodeCount": 1,
+        "nodes": [
+          {
+            "html": "<a href=\"https://www.wolverine.com/US/en/home?utm_term=signup\">",
+            "target": [
+              ".cta-container > a"
+            ],
+            "failureSummary": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        ]
+      },
+      {
+        "id": "target-size",
+        "impact": "serious",
+        "description": "Ensure touch targets have sufficient size and space",
+        "help": "All touch targets must be 24px large, or leave sufficient space",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/target-size?application=axeAPI",
+        "tags": [
+          "cat.sensory-and-visual-cues",
+          "wcag22aa",
+          "wcag258"
+        ],
+        "nodeCount": 2,
+        "nodes": [
+          {
+            "html": "<a title=\"My Account\" href=\"https://www.wolverine.com/US/en/account\" class=\"user-login account-help-link\">",
+            "target": [
+              ".user-login"
+            ],
+            "failureSummary": "Fix any of the following:\n  Target has insufficient size (5px by 26.7px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 10.4px instead of at least 24px."
+          },
+          {
+            "html": "<a href=\"/on/demandware.store/Sites-wolverine_us-Site/default/Wishlist-Show\" aria-label=\"Wishlist\" aria-describedby=\"wishlist-count\">",
+            "target": [
+              "a[aria-label=\"Wishlist\"]"
+            ],
+            "failureSummary": "Fix any of the following:\n  Target has insufficient size (5.3px by 5px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 10.4px instead of at least 24px."
+          }
+        ]
+      }
+    ],
+    "incomplete": [
+      {
+        "id": "aria-valid-attr-value",
+        "nodeCount": 4
+      },
+      {
+        "id": "color-contrast",
+        "nodeCount": 23
+      },
+      {
+        "id": "duplicate-id-aria",
+        "nodeCount": 1
+      },
+      {
+        "id": "target-size",
+        "nodeCount": 1
+      },
+      {
+        "id": "video-caption",
+        "nodeCount": 3
+      },
+      {
+        "id": "no-autoplay-audio",
+        "nodeCount": 3
+      }
+    ],
+    "passes": [
+      "aria-allowed-attr",
+      "aria-command-name",
+      "aria-conditional-attr",
+      "aria-deprecated-role",
+      "aria-hidden-body",
+      "aria-hidden-focus",
+      "aria-input-field-name",
+      "aria-prohibited-attr",
+      "aria-required-attr",
+      "aria-required-children",
+      "aria-roles",
+      "aria-valid-attr-value",
+      "aria-valid-attr",
+      "autocomplete-valid",
+      "avoid-inline-spacing",
+      "button-name",
+      "bypass",
+      "color-contrast",
+      "document-title",
+      "duplicate-id-aria",
+      "form-field-multiple-labels",
+      "html-has-lang",
+      "html-lang-valid",
+      "image-alt",
+      "label",
+      "link-in-text-block",
+      "link-name",
+      "list",
+      "listitem",
+      "meta-viewport",
+      "nested-interactive",
+      "role-img-alt",
+      "target-size"
+    ],
+    "axControlsWithoutName": [],
+    "sourceCharacters": 464190,
+    "sourceBytesUtf8": 457251
+  }
+]

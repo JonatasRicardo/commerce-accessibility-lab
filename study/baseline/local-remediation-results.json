@@ -1,0 +1,31 @@
+{
+  "executedAt": "2026-11-09T02:00:23.461Z",
+  "type": "Local deterministic engineering test, not an LLM benchmark or conversion experiment",
+  "buttonTest": {
+    "source": "wolverine-home.json/button-name",
+    "before": {
+      "violations": [
+        {
+          "id": "button-name",
+          "nodes": 3
+        }
+      ],
+      "namedTargetCount": 0,
+      "tree": "- main:\n  - heading \"Produtos\" [level=1]\n  - group \"Carrossel de produtos\":\n    - button\n    - button\n    - button\n  - paragraph: Página 1"
+    },
+    "after": {
+      "violations": [],
+      "namedTargetCount": 1,
+      "status": "Página 2",
+      "tree": "- main:\n  - heading \"Produtos\" [level=1]\n  - group \"Carrossel de produtos\":\n    - button \"Ir para a página 1 de produtos\"\n    - button \"Ir para a página 2 de produtos\"\n    - button \"Ir para a página 3 de produtos\"\n  - paragraph: Página 2"
+    }
+  },
+  "jsonLdTest": {
+    "source": "unhidden-product.json",
+    "beforeParseError": "Bad control character in string literal in JSON at position 538 (line 10 column 191)",
+    "afterParsed": true,
+    "afterType": "Product",
+    "afterName": "Backless Crop Top",
+    "repairMethod": "Escape control characters within JSON string literals only; do not change factual field values"
+  }
+}
