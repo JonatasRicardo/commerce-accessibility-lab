@@ -170,7 +170,7 @@ node bin/commerce-audit.mjs gate reports/react-demo/states-accessible.json \
   --policy policies/accessibility-gate.json --out reports/gate
 ```
 
-O [exemplo visual completo](examples/react-practices-report.html) apresenta **Antes / Depois** em três canais: captura do viewport, papéis e nomes na árvore de acessibilidade do Chromium, e texto/controles/JSON-LD disponíveis no DOM. O controle negativo e a versão corrigida mantêm a mesma biblioteca Radix e o mesmo ícone: os pixels são iguais, mas o botão passa de sem nome para “Revisar seleção”. O localizador por papel e nome passa de zero para um alvo. Não é um teste de LLM ou gravação de leitor de tela.
+O [exemplo visual completo](examples/react-practices-report.html) apresenta **Antes / Depois** em três canais: captura do viewport, papéis e nomes na árvore de acessibilidade do Chromium, e texto/controles/JSON-LD disponíveis no DOM. O controle negativo e a versão corrigida mantêm a mesma biblioteca Radix e o mesmo ícone: a aparência se mantém, mas o botão passa de sem nome para “Revisar seleção”. O localizador por papel e nome passa de zero para um alvo. Não é um teste de LLM ou gravação de leitor de tela.
 
 Auditorias novas preservam essas visões em `report.json`. Para acompanhar uma correção sua, execute `audit` antes e depois e use o comando `compare` já apresentado; ou acrescente `--baseline reports/antes/report.json` à nova auditoria. Cada versão mostra a data e o viewport. Capturas antigas não disponíveis não são inventadas. Relatórios podem conter o texto visível de uma página: revise-os antes de publicar.
 
@@ -179,3 +179,5 @@ O modo `practices` gera uma matriz de sete práticas com evidências por arquivo
 `audit URL --profile react` relaciona os achados da página às práticas preventivas. Não identifica automaticamente as bibliotecas ou o processo de um concorrente. O [protocolo ágil e as referências](docs/AGILE-ACCESSIBILITY.md) explicam a averiguação e seus limites. Agentes e skills têm critérios e registros de contribuição; sua presença não prova produtividade ou revisão independente.
 
 A [CI](.github/workflows/verify.yml) executa lint, tipos, testes de navegador, experimento React, gate explícito e replay do estudo. Reprova o controle negativo dentro do experimento e exige aprovação dos estados válidos. Os artefatos têm retenção de 30 dias; o conjunto selecionado em `study/react-practices-v0.2` permanece versionado. Um job reprovado exige proteção de branch configurada separadamente para impedir merge.
+
+A comparação visual do exemplo mede os pixels decodificados: a coleta preservada registrou 2 pixels diferentes em 1.440.000, com limite explícito de 16 para variação de rasterização. Contagem, percentual e hashes são expostos no relatório; o gate de acessibilidade é independente dessa tolerância.

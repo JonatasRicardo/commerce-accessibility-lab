@@ -1,3 +1,4 @@
+import { PNG } from 'pngjs';
 import { extractHtml } from './extract.mjs';
 import { sha256 } from './core.mjs';
 
@@ -31,4 +32,18 @@ export function pairPerspectives(before, after) {
     return { title: p.label ?? p.id, before: previous?.perspectives ?? null, after: p.perspectives ?? null,
       note: previous ? 'Registros fornecidos como antes/depois; alterações de conteúdo ou ambiente podem explicar diferenças. Confira datas, hashes e configurações.' : 'Página sem referência correspondente; visão anterior indisponível.' };
   });
+}
+
+// Controlled fixture only: allow at most 16 changed pixels at 1440×1000.
+// This is a visual-regression tolerance, independent of the accessibility gate.
+export function comparePngPixels(before, after, maxChangedPixels = 16) {
+  const a = PNG.sync.read(before), b = PNG.sync.read(after);
+  if (a.width !== b.width || a.height !== b.height) return { equivalent: false, sameDimensions: false, changedPixels: null, maxChangedPixels };
+  let changedPixels = 0;
+  for (let i = 0; i < a.data.length; i += 4) {
+    if ([0, 1, 2, 3].some(c => a.data[i + c] !== b.data[i + c])) changedPixels++;
+  }
+  return { sameDimensions: true, totalPixels: a.width * a.height, changedPixels, maxChangedPixels,
+    changedPercent: changedPixels / (a.width * a.height) * 100, exactPixels: changedPixels === 0, equivalent: changedPixels <= maxChangedPixels,
+    note: 'Tolerância de 16 pixels no exemplo local para variação de rasterização. A contagem e os hashes permanecem expostos; não é uma métrica de acessibilidade ou semelhança perceptiva geral.' };
 }

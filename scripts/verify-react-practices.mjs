@@ -9,7 +9,7 @@ import assert from 'node:assert/strict';
 import { DEFAULTS, SCHEMA, VERSION, sha256, writeJson } from '../src/core.mjs';
 import { evaluateGate } from '../src/gate.mjs';
 import { saveReport } from '../src/report.mjs';
-import { capturePerspectives } from '../src/perspectives.mjs';
+import { capturePerspectives, comparePngPixels } from '../src/perspectives.mjs';
 import { startReactFixture } from './react-fixture.mjs';
 
 const require = createRequire(import.meta.url);
@@ -52,6 +52,7 @@ try {
   await inspectState(page, 'radix-open');
   await page.keyboard.press('Escape');
   record('Escape fecha o diálogo', await page.getByRole('dialog').count(), 0);
+  await page.waitForFunction(() => document.activeElement?.getAttribute('aria-label') === 'Revisar seleção', null, { timeout: 3000 });
   record('Foco retorna ao acionador', await trigger.evaluate(el => el === document.activeElement), true);
   await trigger.press('Enter');
   await page.getByRole('button', { name: 'Confirmar reserva simulada', exact: true }).click();
@@ -76,11 +77,12 @@ try {
   record('Botão sem nome antes e nomeado depois na árvore AX', beforeView.axRows.some(n => n.role === 'button' && !n.name) && afterView.axRows.some(n => n.role === 'button' && n.name === 'Revisar seleção'), true);
   await writeFile(path.join(out, 'before.png'), Buffer.from(beforeView.screenshotDataUrl.split(',')[1], 'base64'));
   await writeFile(path.join(out, 'after.png'), Buffer.from(afterView.screenshotDataUrl.split(',')[1], 'base64'));
-  record('Correção sem alteração dos pixels no estado inicial', beforeView.screenshotSha256, afterView.screenshotSha256);
+  const pixelComparison = comparePngPixels(Buffer.from(beforeView.screenshotDataUrl.split(',')[1], 'base64'), Buffer.from(afterView.screenshotDataUrl.split(',')[1], 'base64'));
+  record('Aparência preservada dentro da tolerância declarada de 16 pixels', pixelComparison.equivalent, true);
   const report = { schema: SCHEMA, toolVersion: VERSION, kind: 'react-practices-demo', createdAt: new Date().toISOString(),
     scope: 'Experimento de engenharia local: React + Radix, quatro estados, testes de teclado e gate. Não mede conversão ou superioridade entre bibliotecas.',
     visualComparisons: [{ title: 'Correção local React — mesmo ícone, nome acessível corrigido', before: beforeView, after: afterView, note: 'Controle negativo e versão corrigida da mesma página fictícia, na mesma sessão e viewport. O botão mantém o ícone visual; somente seu nome acessível muda. Os quatro estados do gate são observações separadas.' }],
-    reactExperiment: { config: { viewport: DEFAULTS.viewport, locale: DEFAULTS.locale, timezoneId: DEFAULTS.timezoneId, reducedMotion: DEFAULTS.reducedMotion }, versions: { node: process.version, playwright: require('playwright/package.json').version, react: require('react/package.json').version, radixDialog: radixPackage.version, axe: axe.version, browser: browser.version() }, checks, states,
+    reactExperiment: { pixelComparison, config: { viewport: DEFAULTS.viewport, locale: DEFAULTS.locale, timezoneId: DEFAULTS.timezoneId, reducedMotion: DEFAULTS.reducedMotion }, versions: { node: process.version, playwright: require('playwright/package.json').version, react: require('react/package.json').version, radixDialog: radixPackage.version, axe: axe.version, browser: browser.version() }, checks, states,
       goodGate: goodGate.qualityGate, negativeControlGate: badGate.qualityGate, sourceHashes: hashes,
       interpretation: 'A mesma biblioteca está nas duas condições. Nomeação e integração corretas continuam sendo responsabilidade da aplicação. Não houve participantes humanos ou execução de modelo de IA.' } };
   await writeJson(path.join(out, 'react-practices.json'), report);

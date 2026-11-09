@@ -5,8 +5,12 @@
   "description": "Reproducible accessibility, technical SEO and agent-readability audits for commerce pages.",
   "type": "module",
   "license": "MIT",
-  "engines": { "node": ">=22" },
-  "bin": { "commerce-audit": "bin/commerce-audit.mjs" },
+  "engines": {
+    "node": ">=22"
+  },
+  "bin": {
+    "commerce-audit": "bin/commerce-audit.mjs"
+  },
   "scripts": {
     "audit": "node bin/commerce-audit.mjs audit",
     "study": "node bin/commerce-audit.mjs study",
@@ -25,6 +29,7 @@
     "axe-core": "4.10.3",
     "cheerio": "1.2.0",
     "playwright": "1.62.1",
+    "pngjs": "7.0.0",
     "robots-parser": "3.0.1",
     "yaml": "2.9.1"
   },

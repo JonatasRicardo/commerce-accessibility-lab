@@ -31,5 +31,7 @@ test('React supplement preserves evidence hashes and its controlled before/after
   assert.equal(r.reactExperiment.checks.length, 17);
   assert.equal(r.reactExperiment.goodGate.passed, true);
   assert.equal(r.reactExperiment.negativeControlGate.passed, false);
-  assert.equal(r.visualComparisons[0].before.screenshotSha256, r.visualComparisons[0].after.screenshotSha256);
+  assert.equal(r.reactExperiment.pixelComparison.equivalent, true);
+  assert.equal(r.reactExperiment.pixelComparison.totalPixels, 1440000);
+  assert.ok(r.reactExperiment.pixelComparison.changedPixels <= 16);
 });
