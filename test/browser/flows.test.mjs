@@ -23,6 +23,10 @@ test('browser-to-report flow detects the practical barriers, preserves failures 
   try {
     const r = await scanPages([`${base}/bad`, `${base}/good`, `${base}/denied`], { out, waitMs: 50, timeoutMs: 5000 });
     assert.equal(r.pages[0].status, 'ok');
+    assert.ok(r.pages[0].perspectives.screenshotDataUrl.startsWith('data:image/png;base64,'));
+    assert.ok(r.pages[0].perspectives.axRows.some(n => n.role === 'button' && !n.name));
+    assert.ok(r.pages[1].perspectives.axRows.some(n => n.role === 'button' && n.name === 'Adicionar camisa'));
+    assert.match(r.pages[0].perspectives.dom.controls[0], /button/);
     assert.ok(r.pages[0].findings.some(f => f.id === 'axe-button-name'));
     assert.ok(r.pages[0].findings.some(f => f.id.startsWith('jsonld-invalid')));
     assert.equal(r.pages[1].rendered.products[0].name, 'Camisa');

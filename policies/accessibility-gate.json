@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "maxCritical": 0,
+  "maxSerious": 0,
+  "maxAgeHours": 24,
+  "description": "Limite do recorte automatizado em estados próprios de teste; revisões manuais e testes com pessoas permanecem necessários."
+}

@@ -28,3 +28,15 @@ Zero alertas não certifica WCAG. Uma coleta bloqueada não significa zero falha
 Não estime conversão privada, posição real no Google ou frequência de recomendação do ChatGPT a partir de HTML. Quando o usuário fornecer dados comerciais autorizados, use `--analytics arquivo.json` e preserve unidade, período, origem e atribuição. Diferencie os benchmarks publicados dos resultados próprios.
 
 Para detalhes de instrumentos e limites, consulte `docs/METHOD.md` na raiz do clone. A skill opera o avaliador local; publicar relatórios ou alterar sites exige estar no escopo solicitado pelo usuário.
+
+## Desenvolvimento React e duas versões visuais
+
+- Inspeção local, sem executar código do repositório examinado: `practices --repo PASTA`. Opcional: `--ci-run https://github.com/OWNER/REPO/actions/runs/ID`. Diferencie configuração observada, run do mesmo commit limpo, artefato disponível e revisão humana.
+- Prevenção para React numa auditoria: `audit URL --profile react`. As sugestões não identificam a stack do site nem comprovam seu processo.
+- Experimento React, na raiz do instrumento: `npm run react:verify -- --out PASTA`. Gera capturas antes/depois, árvore AX e conteúdo disponível para agentes, além dos estados e controles negativos.
+- Regra executável para CI: `gate REPORT.json --policy policies/accessibility-gate.json`. Exige coleta recente e completa; retorna erro quando reprovada. Não use replay para alegar nova aprovação de CI.
+- Para um site corrigido, preserve uma auditoria antes e outra depois; use `compare ANTES.json DEPOIS.json`. Relatórios novos incorporam capturas e canais observados. Registros antigos sem essas evidências mostram a ausência, sem reconstrução fictícia.
+
+A aparência visual, a árvore de acessibilidade e os canais de um agente são observações distintas. AX não é transcrição de leitor de tela; HTML/DOM/JSON-LD não são resposta de IA. Um agente pode usar pixels, DOM, AX ou outros canais. Não afirme sucesso de LLM com base no localizador Playwright. Não altere páginas de terceiros para apresentar uma correção como implantação real. Use o exemplo local para demonstrar mecanismos.
+
+No ciclo ágil, seguir `AGENTS.md`, critérios da tarefa e `docs/AGILE-ACCESSIBILITY.md`. Registrar contribuição real e revisão pendente; se uma sessão implementar e verificar, declarar o mesmo responsável, sem inventar independência ou métricas de produtividade.

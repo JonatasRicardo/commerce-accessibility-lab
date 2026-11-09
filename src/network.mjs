@@ -1,9 +1,9 @@
-import { validateUrl } from './core.mjs';
+import { validateUrl, VERSION } from './core.mjs';
 import { gunzipSync } from 'node:zlib';
 
 export async function getText(input, { timeoutMs = 20000, maxBytes = 8_000_000 } = {}) {
   const url = validateUrl(input);
-  const response = await fetch(url, { headers: { 'user-agent': 'CommerceAccessibilityLab/0.1 (+https://github.com/JonatasRicardo/commerce-accessibility-lab)' }, signal: AbortSignal.timeout(timeoutMs) });
+  const response = await fetch(url, { headers: { 'user-agent': `CommerceAccessibilityLab/${VERSION} (+https://github.com/JonatasRicardo/commerce-accessibility-lab)` }, signal: AbortSignal.timeout(timeoutMs) });
   const reader = response.body?.getReader();
   const chunks = []; let total = 0;
   if (reader) {

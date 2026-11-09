@@ -8,6 +8,8 @@ import { extractHtml } from './extract.mjs';
 import { evaluateRobots } from './robots.mjs';
 import { getText } from './network.mjs';
 import { deriveFindings } from './findings.mjs';
+import { capturePerspectives } from './perspectives.mjs';
+import { reactPrevention } from './practices.mjs';
 
 const require = createRequire(import.meta.url);
 export async function scanPages(urls, options = {}) {
@@ -71,6 +73,8 @@ export async function scanPages(urls, options = {}) {
           };
           const cdp = await context.newCDPSession(page);
           const tree = await cdp.send('Accessibility.getFullAXTree');
+          result.perspectives = await capturePerspectives(page, { rawHtml: raw, tree });
+          await cdp.detach();
           const roles = new Set(['button', 'combobox', 'searchbox', 'textbox', 'checkbox', 'radio', 'link', 'heading']);
           const compact = tree.nodes.filter(n => !n.ignored && roles.has(n.role?.value)).map(n => ({ role: n.role.value, name: n.name?.value ?? '', properties: n.properties }));
           result.agentReadability = {
@@ -95,6 +99,7 @@ export async function scanPages(urls, options = {}) {
           if (robotsFile.text) await writeFile(path.join(out, 'evidence', `${id}-robots.txt`), robotsFile.text);
         } else result.error = `A página final não foi auditada como conteúdo comercial (HTTP ${responseData.status}).`;
         result.findings = deriveFindings(result);
+        if (options.profile === 'react') result.prevention = reactPrevention(result.findings);
       } catch (error) {
         result = { ...(result ?? {}), id, requestedUrl: url, collectedAt: startedAt, status: 'error', error: error.message };
         result.findings = deriveFindings(result);
