@@ -17,7 +17,7 @@ def save(fig, name, title, caption, alt):
     for ext in ['png','svg','pdf']:fig.savefig(OUT/(name+'.'+ext),dpi=300,facecolor='white',bbox_inches='tight')
     plt.close(fig); figures.append(dict(file=name,title=title,caption=caption,alt=alt))
 fig,ax=plt.subplots(figsize=(10,5.8)); ax.set(xlim=(0,10),ylim=(0,6));ax.axis('off')
-steps=[('1. Refinar','Jornada + estados\nCritérios de aceitação'),('2. Implementar','BP01 · Componentes e semântica\nBP06 · Skills e agentes'),('3. Verificar','BP02 · Lint\nBP03 · Teclado, foco e estados'),('4. CI','BP04 · Gate por política\nBP05 · Versões e artefatos'),('5. Revisar','BP07 · Evidências + decisão\nRevisão humana registrada'),('6. Acompanhar','Entrega conforme as regras\nMétricas de uso e negócio')]
+steps=[('1. Refinar','Jornada + estados\nCritérios de aceitação'),('2. Implementar','BP01 · Biblioteca / HTML\nBP06 · Skills e agentes'),('3. Verificar','BP02 · Lint\nBP03 · Teclado, foco e estados'),('4. CI','BP04 · Gate por política\nBP05 · Versões e artefatos'),('5. Revisar','BP07 · Evidências + decisão\nRevisão humana registrada'),('6. Acompanhar','Entrega conforme as regras\nMétricas de uso e negócio')]
 pos=[(.2,3.4),(3.55,3.4),(6.9,3.4),(6.9,.6),(3.55,.6),(.2,.6)]
 for (title,body),(x,y) in zip(steps,pos):
     ax.add_patch(FancyBboxPatch((x,y),2.9,1.65,boxstyle='round,pad=.08',fc=LIGHT,ec=NAVY,lw=1.3));ax.text(x+.15,y+1.23,title,color=NAVY,weight='bold',fontsize=14);ax.text(x+.15,y+.83,body,color=NAVY,va='top',fontsize=9.5,linespacing=1.6)
