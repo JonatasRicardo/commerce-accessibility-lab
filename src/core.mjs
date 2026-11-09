@@ -2,7 +2,7 @@ import { createHash } from 'node:crypto';
 import { mkdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 
-export const VERSION = '0.2.0';
+export const VERSION = '0.2.1';
 export const SCHEMA = 'commerce-audit/1';
 export const DEFAULTS = Object.freeze({
   viewport: { width: 1440, height: 1000 }, locale: 'en-US', timezoneId: 'America/Sao_Paulo',

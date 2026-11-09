@@ -1,6 +1,6 @@
 {
   "name": "commerce-accessibility-lab",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "private": true,
   "description": "Reproducible accessibility, technical SEO and agent-readability audits for commerce pages.",
   "type": "module",
