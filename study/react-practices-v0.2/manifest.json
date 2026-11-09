@@ -1,0 +1,16 @@
+{
+  "files": [
+    {
+      "file": "observations.json",
+      "sha256": "3208e9cde3310596ae61316499b43f69a6bca6c6f49e8ac44846f30fd11f672a"
+    },
+    {
+      "file": "before.png",
+      "sha256": "b023dfbd8b8bf14f3a273da6491dcf13c625a87cbdc0acc9bdf8807e9affe72e"
+    },
+    {
+      "file": "after.png",
+      "sha256": "b023dfbd8b8bf14f3a273da6491dcf13c625a87cbdc0acc9bdf8807e9affe72e"
+    }
+  ]
+}

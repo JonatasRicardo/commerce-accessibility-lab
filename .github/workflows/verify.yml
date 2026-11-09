@@ -16,7 +16,29 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npx playwright install --with-deps chromium
+      - name: JSX accessibility lint
+        run: npm run lint:a11y
+      - name: React type checking
+        run: npm run typecheck
       - run: npm test
       - run: npm run test:browser
+      - name: React keyboard, focus and negative control
+        run: npm run react:verify
+      - name: Accessibility gate
+        run: node bin/commerce-audit.mjs gate reports/react-practices/states-accessible.json --policy policies/accessibility-gate.json --out reports/ci-gate
+      - name: Repository practices configuration
+        run: node bin/commerce-audit.mjs practices --repo . --out reports/ci-practices
       - run: node bin/commerce-audit.mjs study --out reports/ci-study
       - run: node skill/commerce-accessibility-audit/scripts/run.mjs --help
+      - name: Preserve verification evidence
+        if: always()
+        uses: actions/upload-artifact@v7.0.2
+        with:
+          name: react-accessibility-evidence
+          path: |
+            reports/react-practices/
+            reports/ci-gate/
+            reports/ci-practices/
+            reports/ci-study/
+          if-no-files-found: error
+          retention-days: 30

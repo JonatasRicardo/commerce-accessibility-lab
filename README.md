@@ -158,3 +158,24 @@ Testes unitários cobrem extração, regras de rastreamento, integridade, compar
 - [Citação do software](CITATION.cff).
 
 O código novo é distribuído sob MIT. Registros de observações públicas não alteram direitos sobre nomes, marcas, textos ou código dos sites examinados. Não há código, banco de dados ou documentos corporativos do projeto HEOR neste repositório. A preparação inicial deste instrumento contou com assistência de IA e deve ser revisada pelos responsáveis antes de uso confirmatório em pesquisa.
+
+## React, CI e antes/depois visual — v0.2
+
+![Antes e depois: mesma aparência, botão sem nome corrigido na AX e nos canais de agentes](docs/react-practices-before-after.png)
+
+```bash
+npm run react:verify -- --out reports/react-demo
+node bin/commerce-audit.mjs practices --repo . --out reports/praticas
+node bin/commerce-audit.mjs gate reports/react-demo/states-accessible.json \
+  --policy policies/accessibility-gate.json --out reports/gate
+```
+
+O [exemplo visual completo](examples/react-practices-report.html) apresenta **Antes / Depois** em três canais: captura do viewport, papéis e nomes na árvore de acessibilidade do Chromium, e texto/controles/JSON-LD disponíveis no DOM. O controle negativo e a versão corrigida mantêm a mesma biblioteca Radix e o mesmo ícone: os pixels são iguais, mas o botão passa de sem nome para “Revisar seleção”. O localizador por papel e nome passa de zero para um alvo. Não é um teste de LLM ou gravação de leitor de tela.
+
+Auditorias novas preservam essas visões em `report.json`. Para acompanhar uma correção sua, execute `audit` antes e depois e use o comando `compare` já apresentado; ou acrescente `--baseline reports/antes/report.json` à nova auditoria. Cada versão mostra a data e o viewport. Capturas antigas não disponíveis não são inventadas. Relatórios podem conter o texto visível de uma página: revise-os antes de publicar.
+
+O modo `practices` gera uma matriz de sete práticas com evidências por arquivo: biblioteca integrada, lint JSX, testes de teclado/foco, gate no CI, versões/artefatos, skills/agentes e critérios de aceitação. A inspeção é estática e limitada ao recorte documentado. Para acrescentar evidência pública de execução, use `--ci-run URL_DO_RUN`; só o mesmo commit sem alterações locais é identificado como correspondente.
+
+`audit URL --profile react` relaciona os achados da página às práticas preventivas. Não identifica automaticamente as bibliotecas ou o processo de um concorrente. O [protocolo ágil e as referências](docs/AGILE-ACCESSIBILITY.md) explicam a averiguação e seus limites. Agentes e skills têm critérios e registros de contribuição; sua presença não prova produtividade ou revisão independente.
+
+A [CI](.github/workflows/verify.yml) executa lint, tipos, testes de navegador, experimento React, gate explícito e replay do estudo. Reprova o controle negativo dentro do experimento e exige aprovação dos estados válidos. Os artefatos têm retenção de 30 dias; o conjunto selecionado em `study/react-practices-v0.2` permanece versionado. Um job reprovado exige proteção de branch configurada separadamente para impedir merge.
